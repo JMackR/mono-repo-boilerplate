@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="123" viewBox="0 0 123 123">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="61.5" cy="61.5" r="61.5" fill="#3D98D2" fill-opacity=".1"/>
+        <ellipse cx="60.75" cy="91.75" fill="#3D98D2" fill-opacity=".1" rx="47.25" ry="4.75"/>
+        <g>
+            <path fill="#F3A70C" d="M24.5 0H67c1.38 0 2.5 1.12 2.5 2.5V48c0 1.38-1.12 2.5-2.5 2.5H24.5V0z" transform="translate(26.5 42)"/>
+            <path fill="#F4BE19" d="M2.5 0h22v50.5h-22C1.12 50.5 0 49.38 0 48V2.5C0 1.12 1.12 0 2.5 0z" transform="translate(26.5 42)"/>
+            <path fill="#F5D624" d="M9 0H16V18H9z" transform="translate(26.5 42)"/>
+            <path fill="#F4BE19" d="M43.5 0H52V19H43.5z" transform="translate(26.5 42)"/>
+        </g>
+        <g>
+            <path fill="#FFF" stroke="#F17C00" d="M0.5 0.5H39V14H0.5z" transform="rotate(11 -277.794 318.906)"/>
+            <text fill="#D8D8D8" font-family="Lato-Bold, Lato" font-size="7" font-weight="bold" letter-spacing=".4" transform="rotate(11 -277.794 318.906)">
+                <tspan x="4.5" y="10">RETURN</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge Snapshot Tests Badge with 3 digit amount truncates and renders properly 1`] = `
+.text-textStyle {
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.container {
+  border-radius: 10px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 31.8px;
+  height: 20px;
+  background-color: #E05666;
+  text-align: center;
+  padding: 3px;
+}
+
+<div
+  className="container"
+>
+  <div
+    className="text-textStyle"
+  >
+    99+
+  </div>
+</div>
+`;
+
+exports[`Badge Snapshot Tests Badge with non-displayable amount renders properly 1`] = `<div />`;
+
+exports[`Badge Snapshot Tests Badge with one digit amount renders properly 1`] = `
+.container {
+  border-radius: 10px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  background-color: #E05666;
+  text-align: center;
+  padding: 3px;
+}
+
+.text-textStyle {
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+<div
+  className="container"
+>
+  <div
+    className="text-textStyle"
+  >
+    9
+  </div>
+</div>
+`;
+
+exports[`Badge Snapshot Tests Badge with two digit amount renders properly 1`] = `
+.text-textStyle {
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.container {
+  border-radius: 10px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 21.200000000000003px;
+  height: 20px;
+  background-color: #E05666;
+  text-align: center;
+  padding: 3px;
+}
+
+<div
+  className="container"
+>
+  <div
+    className="text-textStyle"
+  >
+    99
+  </div>
+</div>
+`;

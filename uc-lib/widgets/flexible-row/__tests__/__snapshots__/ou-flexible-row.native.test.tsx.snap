@@ -1,0 +1,923 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlexibleRow Snapshot Tests Render with linktext action 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "flexGrow": 1,
+      "opacity": 1,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": undefined,
+        "minHeight": 42,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.main-content"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Regular",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "lineHeight": 20,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.main-content"
+      >
+        Text
+      </Text>
+    </View>
+    <View
+      accessibilityLabel="redibs-ucl.flex-row.right-action"
+      style={
+        Object {
+          "alignSelf": "center",
+          "paddingLeft": 8,
+        }
+      }
+      testID="redibs-ucl.flex-row.right-action"
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.action.text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#00A87E",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.action.text"
+      >
+        Edit
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with mainText and clickable subtext only 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flexDirection": "row",
+      "height": undefined,
+      "minHeight": 42,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  >
+    <View
+      accessibilityLabel="redibs-ucl.flex-row.main-content.row.0"
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 20,
+        }
+      }
+      testID="redibs-ucl.flex-row.main-content.row.0"
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.flex-row.main-content.row.0.main-text"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Regular",
+                "fontSize": 16,
+                "fontWeight": "normal",
+                "lineHeight": 20,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.flex-row.main-content.row.0.main-text"
+        >
+          Text
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 4,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.sub-content.sub-text"
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#00A87E",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.sub-content.sub-text"
+      >
+        clickable subtext
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with mainText, subtext, and clickable subtext 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flexDirection": "row",
+      "height": undefined,
+      "minHeight": 42,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  >
+    <View
+      accessibilityLabel="redibs-ucl.flex-row.main-content.row.0"
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 20,
+        }
+      }
+      testID="redibs-ucl.flex-row.main-content.row.0"
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.flex-row.main-content.row.0.main-text"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Regular",
+                "fontSize": 16,
+                "fontWeight": "normal",
+                "lineHeight": 20,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.flex-row.main-content.row.0.main-text"
+        >
+          Text
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 4,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.sub-content.sub-text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Regular",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#8A8A8A",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.sub-content.sub-text"
+      >
+        SubText
+      </Text>
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.sub-content.sub-text"
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#00A87E",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.sub-content.sub-text"
+      >
+        clickable subtext
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with text 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flexDirection": "row",
+      "height": undefined,
+      "minHeight": 42,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.flex-row.main-content"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Mulish-Regular",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#121212",
+            "textAlign": undefined,
+            "textDecorationLine": undefined,
+          },
+        ]
+      }
+      testID="redibs-ucl.flex-row.main-content"
+    >
+      Text
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with text and click 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "flexGrow": 1,
+      "opacity": 1,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": undefined,
+        "minHeight": 42,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.main-content"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Regular",
+              "fontSize": 16,
+              "fontWeight": "normal",
+              "lineHeight": 20,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.main-content"
+      >
+        Text
+      </Text>
+    </View>
+    <View
+      accessibilityLabel="redibs-ucl.flex-row.right-arrow"
+      style={
+        Object {
+          "paddingLeft": 8,
+        }
+      }
+      testID="redibs-ucl.flex-row.right-arrow"
+    >
+      <actions-chevron-right-line.svg
+        alwaysDark="#121212"
+        alwaysLight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalHover="#F7F7F7"
+        crystalPressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialBlue="#3D98D2"
+        granite="#ABABAB"
+        larchYellow="#F4BE19"
+        larchYellowHover="#F5D624"
+        larchYellowPressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestoneHover="#EEEEEE"
+        limestonePressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushRed="#E05666"
+        green="#00A87E"
+        greenHighlight="#DEF3EC"
+        greenHover="#43B893"
+        greenPressed="#00986A"
+        quartz="#FAFAFA"
+        tintColor="#ABABAB"
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with text and no margins 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flexDirection": "row",
+      "height": undefined,
+      "minHeight": 42,
+      "paddingBottom": 16,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": 16,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.flex-row.main-content"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Mulish-Regular",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#121212",
+            "textAlign": undefined,
+            "textDecorationLine": undefined,
+          },
+        ]
+      }
+      testID="redibs-ucl.flex-row.main-content"
+    >
+      Text
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with two rows and help on first row and switch 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "flexDirection": "row",
+      "height": undefined,
+      "minHeight": 42,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  >
+    <View
+      accessibilityLabel="redibs-ucl.flex-row.main-content.row.0"
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 20,
+        }
+      }
+      testID="redibs-ucl.flex-row.main-content.row.0"
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.flex-row.main-content.row.0.main-text"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Regular",
+                "fontSize": 16,
+                "fontWeight": "normal",
+                "lineHeight": 20,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.flex-row.main-content.row.0.main-text"
+        >
+          Text
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 4,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.sub-content.sub-text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Regular",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#8A8A8A",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.sub-content.sub-text"
+      >
+        Text
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.flex-row.right-action"
+    style={
+      Object {
+        "alignSelf": "center",
+        "paddingLeft": 8,
+      }
+    }
+    testID="redibs-ucl.flex-row.right-action"
+  >
+    <RCTSwitch
+      accessibilityLabel="redibs-ucl.flex-row.action.toggle"
+      accessibilityRole="button"
+      onChange={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onTintColor="#00A87E"
+      style={
+        Array [
+          Object {
+            "height": 31,
+            "width": 51,
+          },
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 16,
+          },
+        ]
+      }
+      testID="redibs-ucl.flex-row.action.toggle"
+      tintColor="#FFFFFF"
+      value={false}
+    />
+  </View>
+</View>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with two rows, hidden arrow, click action, right icon, and right notification 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.flexible-row"
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "flexGrow": 1,
+      "opacity": 1,
+    }
+  }
+  testID="redibs-ucl.flexible-row"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexDirection": "row",
+        "height": undefined,
+        "minHeight": 42,
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.flex-row.main-content.row.0"
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "height": 20,
+          }
+        }
+        testID="redibs-ucl.flex-row.main-content.row.0"
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.flex-row.main-content.row.0.main-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#121212",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.flex-row.main-content.row.0.main-text"
+          >
+            Text
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "flex-start",
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.flex-row.right-notification.text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 12,
+              "fontWeight": "bold",
+              "lineHeight": 14,
+            },
+            Object {
+              "color": "#E05666",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.flex-row.right-notification.text"
+      >
+        1 pending shipment
+      </Text>
+    </View>
+    <View
+      accessibilityLabel="redibs-ucl.flex-row.right-action"
+      style={
+        Object {
+          "paddingLeft": 8,
+        }
+      }
+      testID="redibs-ucl.flex-row.right-action"
+    >
+      <View
+        accessibilityLabel="redibs-ucl.flex-row.right-action.badge"
+        testID="redibs-ucl.flex-row.right-action.badge"
+      >
+        <View
+          style={
+            Object {
+              "alignSelf": "flex-end",
+              "backgroundColor": "#E05666",
+              "borderRadius": 10,
+              "height": 6,
+              "position": "absolute",
+              "right": -5,
+              "width": 6,
+              "zIndex": 1,
+            }
+          }
+        />
+        <actions-heart-line.svg
+          alwaysDark="#121212"
+          alwaysLight="#FFFFFF"
+          basalt="#8A8A8A"
+          crystal="#FFFFFF"
+          crystalHover="#F7F7F7"
+          crystalPressed="#EEEEEE"
+          disabled="#FAFAFA"
+          glacialBlue="#3D98D2"
+          granite="#ABABAB"
+          larchYellow="#F4BE19"
+          larchYellowHover="#F5D624"
+          larchYellowPressed="#F3A70C"
+          limestone="#E2E2E2"
+          limestoneHover="#EEEEEE"
+          limestonePressed="#D0D0D0"
+          obsidian="#121212"
+          overlay="rgba(18,18,18,0.3)"
+          paintbrushRed="#E05666"
+          green="#00A87E"
+          greenHighlight="#DEF3EC"
+          greenHover="#43B893"
+          greenPressed="#00986A"
+          quartz="#FAFAFA"
+          tintColor="#121212"
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

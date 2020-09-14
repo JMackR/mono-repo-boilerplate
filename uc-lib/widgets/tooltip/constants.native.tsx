@@ -1,0 +1,5 @@
+export const SPACE_BETWEEN_ARROW_AND_BORDER = 12
+export const MARGIN_BETWEEN_SCREEN_AND_TOOLTIP = 12
+export const POINTER_WIDTH = 20
+export const POINTER_HEIGHT = 8
+export const TOOLTIP_DURATION = 5 * 1000

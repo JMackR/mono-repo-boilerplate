@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pill /> Snapshot Android should render properly  1`] = `
+<View
+  accessibilityLabel="redibs-ucl.pill-list-item"
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="redibs-ucl.pill-list-item"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E2E2E2",
+        "borderColor": undefined,
+        "borderRadius": 14,
+        "borderStyle": undefined,
+        "borderWidth": 0,
+        "marginRight": 8,
+        "padding": 8,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.text"
+      >
+        Test
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<Pill /> Snapshot iOS should render properly  1`] = `
+<View
+  accessibilityLabel="redibs-ucl.pill-list-item"
+  accessible={true}
+  focusable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="redibs-ucl.pill-list-item"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E2E2E2",
+        "borderColor": undefined,
+        "borderRadius": 14,
+        "borderStyle": undefined,
+        "borderWidth": 0,
+        "marginRight": 8,
+        "padding": 8,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "lineHeight": 16,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.text"
+      >
+        Test
+      </Text>
+    </View>
+  </View>
+</View>
+`;

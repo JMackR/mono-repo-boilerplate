@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toggle Snapshot Tests Android Snapshot Android toggle with state renderer.creates properly 1`] = `
+<AndroidSwitch
+  accessibilityLabel="redibs-ucl.toggle"
+  accessibilityRole="button"
+  enabled={true}
+  on={false}
+  onChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  testID="redibs-ucl.toggle"
+  thumbTintColor="#E2E2E2"
+  trackColorForFalse="#ABABAB"
+  trackColorForTrue="#00A87E"
+  trackTintColor="#ABABAB"
+/>
+`;
+
+exports[`Toggle Snapshot Tests Toggle with disabled state renderer.creates properly 1`] = `
+<RCTSwitch
+  accessibilityLabel="redibs-ucl.toggle"
+  accessibilityRole="button"
+  disabled={true}
+  onChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onTintColor="#00A87E"
+  style={
+    Array [
+      Object {
+        "height": 31,
+        "width": 51,
+      },
+      Array [
+        Object {
+          "borderColor": "#ABABAB",
+          "borderWidth": 0.5,
+        },
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 16,
+        },
+      ],
+    ]
+  }
+  testID="redibs-ucl.toggle"
+  tintColor="#FFFFFF"
+  value={false}
+/>
+`;
+
+exports[`Toggle Snapshot Tests Toggle with off state renderer.creates properly 1`] = `
+<RCTSwitch
+  accessibilityLabel="redibs-ucl.toggle"
+  accessibilityRole="button"
+  onChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onTintColor="#00A87E"
+  style={
+    Array [
+      Object {
+        "height": 31,
+        "width": 51,
+      },
+      Array [
+        Object {
+          "borderColor": "#ABABAB",
+          "borderWidth": 0.5,
+        },
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 16,
+        },
+      ],
+    ]
+  }
+  testID="redibs-ucl.toggle"
+  tintColor="#FFFFFF"
+  value={false}
+/>
+`;
+
+exports[`Toggle Snapshot Tests Toggle with on state renderer.creates properly 1`] = `
+<RCTSwitch
+  accessibilityLabel="redibs-ucl.toggle"
+  accessibilityRole="button"
+  onChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onTintColor="#00A87E"
+  style={
+    Array [
+      Object {
+        "height": 31,
+        "width": 51,
+      },
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 16,
+      },
+    ]
+  }
+  testID="redibs-ucl.toggle"
+  tintColor="#FFFFFF"
+  value={true}
+/>
+`;
+
+exports[`Toggle Snapshot Tests iOS Snapshot iOS toggle with state renderer.creates properly 1`] = `
+<RCTSwitch
+  accessibilityLabel="redibs-ucl.toggle"
+  accessibilityRole="button"
+  onChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onTintColor="#00A87E"
+  style={
+    Array [
+      Object {
+        "height": 31,
+        "width": 51,
+      },
+      Array [
+        Object {
+          "borderColor": "#ABABAB",
+          "borderWidth": 0.5,
+        },
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 16,
+        },
+      ],
+    ]
+  }
+  testID="redibs-ucl.toggle"
+  tintColor="#FFFFFF"
+  value={false}
+/>
+`;

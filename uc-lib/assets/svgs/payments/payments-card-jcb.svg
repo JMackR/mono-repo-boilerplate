@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="prefix__c" x1="-57.527%" x2="232.391%" y1="50.124%" y2="50.124%">
+            <stop offset="0%" stop-color="#007940"/>
+            <stop offset="22.85%" stop-color="#00873F"/>
+            <stop offset="74.33%" stop-color="#40A737"/>
+            <stop offset="100%" stop-color="#5CB531"/>
+        </linearGradient>
+        <linearGradient id="prefix__d" x1=".183%" x2="100.273%" y1="49.96%" y2="49.96%">
+            <stop offset="0%" stop-color="#007940"/>
+            <stop offset="22.85%" stop-color="#00873F"/>
+            <stop offset="74.33%" stop-color="#40A737"/>
+            <stop offset="100%" stop-color="#5CB531"/>
+        </linearGradient>
+        <linearGradient id="prefix__e" x1="-62.802%" x2="253.671%" y1="49.858%" y2="49.858%">
+            <stop offset="0%" stop-color="#007940"/>
+            <stop offset="22.85%" stop-color="#00873F"/>
+            <stop offset="74.33%" stop-color="#40A737"/>
+            <stop offset="100%" stop-color="#5CB531"/>
+        </linearGradient>
+        <linearGradient id="prefix__f" x1=".176%" x2="101.808%" y1="50.006%" y2="50.006%">
+            <stop offset="0%" stop-color="#1F286F"/>
+            <stop offset="47.51%" stop-color="#004E94"/>
+            <stop offset="82.61%" stop-color="#0066B1"/>
+            <stop offset="100%" stop-color="#006FBC"/>
+        </linearGradient>
+        <linearGradient id="prefix__g" x1="-.576%" x2="98.133%" y1="49.914%" y2="49.914%">
+            <stop offset="0%" stop-color="#6C2C2F"/>
+            <stop offset="17.35%" stop-color="#882730"/>
+            <stop offset="57.31%" stop-color="#BE1833"/>
+            <stop offset="85.85%" stop-color="#DC0436"/>
+            <stop offset="100%" stop-color="#E60039"/>
+        </linearGradient>
+        <rect id="prefix__a" width="20" height="12.5" x="0" y="0" rx="1.25"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(2 5.5)">
+            <mask id="prefix__b" fill="#fff">
+                <use xlink:href="#prefix__a"/>
+            </mask>
+            <rect width="19.375" height="11.875" x=".313" y=".313" stroke="#D8D8D8" stroke-width=".625" rx="1.25"/>
+            <g mask="url(#prefix__b)">
+                <g fill-rule="nonzero">
+                    <path fill="#FFF" d="M13.75 8.963c0 1.247-.958 2.263-2.135 2.263H0V2.263C0 1.016.958 0 2.135 0H13.75v8.963z" transform="translate(3.125 .625)"/>
+                    <g>
+                        <path fill="url(#prefix__c)" d="M.756 5.925h.883c.025 0 .084-.009.11-.009.167-.036.31-.196.31-.419 0-.214-.143-.374-.31-.419-.026-.008-.076-.008-.11-.008H.756v.855z" transform="translate(3.125 .625) translate(9.211 .74)"/>
+                        <path fill="url(#prefix__d)" d="M1.538.018c-.84 0-1.53.721-1.53 1.621v1.684h2.16c.05 0 .11 0 .152.01.487.026.849.293.849.757 0 .365-.244.677-.698.739v.018c.496.035.874.33.874.784 0 .49-.42.81-.975.81H0v3.297h2.244c.84 0 1.53-.721 1.53-1.621v-8.1H1.538z" transform="translate(3.125 .625) translate(9.211 .74)"/>
+                        <path fill="url(#prefix__e)" d="M1.95 4.196c0-.213-.143-.356-.311-.383-.017 0-.059-.009-.084-.009H.756v.784h.799c.025 0 .076 0 .084-.008.168-.027.31-.17.31-.384z" transform="translate(3.125 .625) translate(9.211 .74)"/>
+                    </g>
+                    <path fill="url(#prefix__f)" d="M2.294.757c-.84 0-1.53.722-1.53 1.622v4c.43.223.875.366 1.32.366.53 0 .816-.339.816-.802v-1.89h1.31v1.88c0 .731-.428 1.328-1.882 1.328-.882 0-1.572-.205-1.572-.205v3.413H3c.84 0 1.53-.722 1.53-1.622V.757H2.294z" transform="translate(3.125 .625)"/>
+                    <path fill="url(#prefix__g)" d="M6.522.757c-.84 0-1.53.722-1.53 1.622v2.12c.387-.347 1.06-.57 2.144-.516.58.026 1.201.196 1.201.196v.686c-.31-.17-.68-.321-1.16-.357-.823-.062-1.319.366-1.319 1.114 0 .757.496 1.185 1.32 1.114.479-.036.848-.196 1.16-.357v.686s-.614.17-1.202.196c-1.085.054-1.757-.169-2.144-.516v3.742h2.244c.84 0 1.53-.722 1.53-1.622V.757H6.522z" transform="translate(3.125 .625)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Snapshot Tests Default ipnut renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.input"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+  testID="redibs-ucl.input"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": undefined,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "borderColor": "#8A8A8A",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "column",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "margin": 8,
+                "marginBottom": undefined,
+                "marginLeft": undefined,
+                "marginRight": undefined,
+                "marginTop": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "row",
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "stretch",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "flexWrap": undefined,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "overflow": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <TextInput
+                  accessibilityLabel="redibs-ucl.input.text-entry"
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCompleteType="off"
+                  autoCorrect={true}
+                  inputAccessoryViewID="stickyDoneBar"
+                  multiline={false}
+                  onBlur={[Function]}
+                  onContentSizeChange={[Function]}
+                  onEndEditing={[Function]}
+                  onFocus={[Function]}
+                  onKeyPress={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholderTextColor="#ABABAB"
+                  rejectResponderTermination={true}
+                  selectionColor="#00A87E"
+                  showSoftInputOnFocus={true}
+                  style={
+                    Object {
+                      "alignSelf": "stretch",
+                      "color": "#121212",
+                      "flex": 0,
+                      "flexDirection": "row",
+                      "fontFamily": "Mulish-Regular",
+                      "fontSize": 16,
+                      "fontWeight": "normal",
+                      "margin": 0,
+                      "maxHeight": 20,
+                      "minHeight": 20,
+                      "padding": 0,
+                      "textAlign": undefined,
+                      "textAlignVertical": "auto",
+                    }
+                  }
+                  testID="redibs-ucl.input.text-entry"
+                  underlineColorAndroid="transparent"
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Input Snapshot Tests Input with error and without svgs 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.input"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+  testID="redibs-ucl.input"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": undefined,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "flexWrap": undefined,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.input.title"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Bold",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.input.title"
+        >
+          Sample Title
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "borderColor": "#E05666",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "column",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "margin": 8,
+                "marginBottom": undefined,
+                "marginLeft": undefined,
+                "marginRight": undefined,
+                "marginTop": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "row",
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "stretch",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "flexWrap": undefined,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "overflow": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <TextInput
+                  accessibilityLabel="redibs-ucl.input.text-entry"
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCompleteType="off"
+                  autoCorrect={true}
+                  inputAccessoryViewID="stickyDoneBar"
+                  multiline={false}
+                  onBlur={[Function]}
+                  onContentSizeChange={[Function]}
+                  onEndEditing={[Function]}
+                  onFocus={[Function]}
+                  onKeyPress={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="Sample hint text"
+                  placeholderTextColor="#ABABAB"
+                  rejectResponderTermination={true}
+                  secureTextEntry={true}
+                  selectionColor="#00A87E"
+                  showSoftInputOnFocus={true}
+                  style={
+                    Object {
+                      "alignSelf": "stretch",
+                      "color": "#121212",
+                      "flex": 0,
+                      "flexDirection": "row",
+                      "fontFamily": "Mulish-Regular",
+                      "fontSize": 16,
+                      "fontWeight": "normal",
+                      "margin": 0,
+                      "maxHeight": 20,
+                      "minHeight": 20,
+                      "padding": 0,
+                      "textAlign": undefined,
+                      "textAlignVertical": "auto",
+                    }
+                  }
+                  testID="redibs-ucl.input.text-entry"
+                  underlineColorAndroid="transparent"
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "stretch",
+                      "backgroundColor": undefined,
+                      "bottom": undefined,
+                      "flexBasis": "auto",
+                      "flexDirection": "row",
+                      "flexGrow": 0,
+                      "flexShrink": 1,
+                      "height": undefined,
+                      "justifyContent": "flex-start",
+                      "left": undefined,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": undefined,
+                      "width": undefined,
+                    }
+                  }
+                >
+                  <View
+                    accessibilityLabel="redibs-ucl.clickable-opacity"
+                    accessible={true}
+                    focusable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                    testID="redibs-ucl.clickable-opacity"
+                  >
+                    <Text
+                      accessibilityLabel="redibs-ucl.text"
+                      style={
+                        Array [
+                          Object {
+                            "fontFamily": "Mulish-Regular",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 20,
+                          },
+                          Object {
+                            "color": "#00A87E",
+                            "textAlign": undefined,
+                            "textDecorationLine": undefined,
+                          },
+                        ]
+                      }
+                      testID="redibs-ucl.text"
+                    >
+                      [missing "en.common-actions.show" translation]
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.left-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.left-helper-text"
+          >
+            Left Helper Text
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row-reverse",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.right-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.right-helper-text"
+          >
+            Right Helper Text
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <Text
+        accessibilityLabel="redibs-ucl.input.error-text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Regular",
+              "fontSize": 12,
+              "fontWeight": "normal",
+              "lineHeight": 14,
+            },
+            Object {
+              "color": "#E05666",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.input.error-text"
+      >
+        test
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Input Snapshot Tests input with error and SVGs 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.input"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+  testID="redibs-ucl.input"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": undefined,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "flexWrap": undefined,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.input.title"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Bold",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.input.title"
+        >
+          Sample Title
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "borderColor": "#E05666",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "column",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "margin": 8,
+                "marginBottom": undefined,
+                "marginLeft": undefined,
+                "marginRight": undefined,
+                "marginTop": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "row",
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "margin": undefined,
+                    "marginBottom": undefined,
+                    "marginLeft": 4,
+                    "marginRight": 4,
+                    "marginTop": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <home-fill.svg
+                  alwaysDark="#121212"
+                  alwaysLight="#FFFFFF"
+                  basalt="#8A8A8A"
+                  crystal="#FFFFFF"
+                  crystalHover="#F7F7F7"
+                  crystalPressed="#EEEEEE"
+                  disabled="#FAFAFA"
+                  glacialBlue="#3D98D2"
+                  granite="#ABABAB"
+                  larchYellow="#F4BE19"
+                  larchYellowHover="#F5D624"
+                  larchYellowPressed="#F3A70C"
+                  limestone="#E2E2E2"
+                  limestoneHover="#EEEEEE"
+                  limestonePressed="#D0D0D0"
+                  obsidian="#121212"
+                  overlay="rgba(18,18,18,0.3)"
+                  paintbrushRed="#E05666"
+                  green="#00A87E"
+                  greenHighlight="#DEF3EC"
+                  greenHover="#43B893"
+                  greenPressed="#00986A"
+                  quartz="#FAFAFA"
+                  tintColor="#E05666"
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "stretch",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "flexWrap": undefined,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "overflow": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <TextInput
+                  accessibilityLabel="redibs-ucl.input.text-entry"
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCompleteType="off"
+                  autoCorrect={true}
+                  inputAccessoryViewID="stickyDoneBar"
+                  multiline={false}
+                  onBlur={[Function]}
+                  onContentSizeChange={[Function]}
+                  onEndEditing={[Function]}
+                  onFocus={[Function]}
+                  onKeyPress={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="Sample hint text"
+                  placeholderTextColor="#ABABAB"
+                  rejectResponderTermination={true}
+                  secureTextEntry={true}
+                  selectionColor="#00A87E"
+                  showSoftInputOnFocus={true}
+                  style={
+                    Object {
+                      "alignSelf": "stretch",
+                      "color": "#121212",
+                      "flex": 0,
+                      "flexDirection": "row",
+                      "fontFamily": "Mulish-Regular",
+                      "fontSize": 16,
+                      "fontWeight": "normal",
+                      "margin": 0,
+                      "maxHeight": 20,
+                      "minHeight": 20,
+                      "padding": 0,
+                      "textAlign": undefined,
+                      "textAlignVertical": "auto",
+                    }
+                  }
+                  testID="redibs-ucl.input.text-entry"
+                  underlineColorAndroid="transparent"
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "stretch",
+                      "backgroundColor": undefined,
+                      "bottom": undefined,
+                      "flexBasis": "auto",
+                      "flexDirection": "row",
+                      "flexGrow": 0,
+                      "flexShrink": 1,
+                      "height": undefined,
+                      "justifyContent": "flex-start",
+                      "left": undefined,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": undefined,
+                      "width": undefined,
+                    }
+                  }
+                >
+                  <View
+                    accessibilityLabel="redibs-ucl.clickable-opacity"
+                    accessible={true}
+                    focusable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                    testID="redibs-ucl.clickable-opacity"
+                  >
+                    <Text
+                      accessibilityLabel="redibs-ucl.text"
+                      style={
+                        Array [
+                          Object {
+                            "fontFamily": "Mulish-Regular",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 20,
+                          },
+                          Object {
+                            "color": "#00A87E",
+                            "textAlign": undefined,
+                            "textDecorationLine": undefined,
+                          },
+                        ]
+                      }
+                      testID="redibs-ucl.text"
+                    >
+                      [missing "en.common-actions.show" translation]
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "margin": undefined,
+                    "marginBottom": undefined,
+                    "marginLeft": 4,
+                    "marginRight": 4,
+                    "marginTop": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <home-fill.svg
+                  alwaysDark="#121212"
+                  alwaysLight="#FFFFFF"
+                  basalt="#8A8A8A"
+                  crystal="#FFFFFF"
+                  crystalHover="#F7F7F7"
+                  crystalPressed="#EEEEEE"
+                  disabled="#FAFAFA"
+                  glacialBlue="#3D98D2"
+                  granite="#ABABAB"
+                  larchYellow="#F4BE19"
+                  larchYellowHover="#F5D624"
+                  larchYellowPressed="#F3A70C"
+                  limestone="#E2E2E2"
+                  limestoneHover="#EEEEEE"
+                  limestonePressed="#D0D0D0"
+                  obsidian="#121212"
+                  overlay="rgba(18,18,18,0.3)"
+                  paintbrushRed="#E05666"
+                  green="#00A87E"
+                  greenHighlight="#DEF3EC"
+                  greenHover="#43B893"
+                  greenPressed="#00986A"
+                  quartz="#FAFAFA"
+                  tintColor="#E05666"
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.left-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.left-helper-text"
+          >
+            Left Helper Text
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row-reverse",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.right-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.right-helper-text"
+          >
+            Right Helper Text
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <Text
+        accessibilityLabel="redibs-ucl.input.error-text"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Regular",
+              "fontSize": 12,
+              "fontWeight": "normal",
+              "lineHeight": 14,
+            },
+            Object {
+              "color": "#E05666",
+              "textAlign": undefined,
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.input.error-text"
+      >
+        test
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Input Snapshot Tests input with no error and loading 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.input"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+  testID="redibs-ucl.input"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": undefined,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "flexWrap": undefined,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.input.title"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Bold",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.input.title"
+        >
+          Sample Title
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "borderColor": "#8A8A8A",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "column",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "margin": 8,
+                "marginBottom": undefined,
+                "marginLeft": undefined,
+                "marginRight": undefined,
+                "marginTop": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "row",
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "margin": undefined,
+                    "marginBottom": undefined,
+                    "marginLeft": 4,
+                    "marginRight": 4,
+                    "marginTop": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <home-fill.svg
+                  alwaysDark="#121212"
+                  alwaysLight="#FFFFFF"
+                  basalt="#8A8A8A"
+                  crystal="#FFFFFF"
+                  crystalHover="#F7F7F7"
+                  crystalPressed="#EEEEEE"
+                  disabled="#FAFAFA"
+                  glacialBlue="#3D98D2"
+                  granite="#ABABAB"
+                  larchYellow="#F4BE19"
+                  larchYellowHover="#F5D624"
+                  larchYellowPressed="#F3A70C"
+                  limestone="#E2E2E2"
+                  limestoneHover="#EEEEEE"
+                  limestonePressed="#D0D0D0"
+                  obsidian="#121212"
+                  overlay="rgba(18,18,18,0.3)"
+                  paintbrushRed="#E05666"
+                  green="#00A87E"
+                  greenHighlight="#DEF3EC"
+                  greenHover="#43B893"
+                  greenPressed="#00986A"
+                  quartz="#FAFAFA"
+                  tintColor="#8A8A8A"
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "stretch",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "flexWrap": undefined,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "overflow": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <TextInput
+                  accessibilityLabel="redibs-ucl.input.text-entry"
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCompleteType="off"
+                  autoCorrect={true}
+                  inputAccessoryViewID="stickyDoneBar"
+                  multiline={false}
+                  onBlur={[Function]}
+                  onContentSizeChange={[Function]}
+                  onEndEditing={[Function]}
+                  onFocus={[Function]}
+                  onKeyPress={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="Sample hint text"
+                  placeholderTextColor="#ABABAB"
+                  rejectResponderTermination={true}
+                  secureTextEntry={true}
+                  selectionColor="#00A87E"
+                  showSoftInputOnFocus={true}
+                  style={
+                    Object {
+                      "alignSelf": "stretch",
+                      "color": "#121212",
+                      "flex": 0,
+                      "flexDirection": "row",
+                      "fontFamily": "Mulish-Regular",
+                      "fontSize": 16,
+                      "fontWeight": "normal",
+                      "margin": 0,
+                      "maxHeight": 20,
+                      "minHeight": 20,
+                      "padding": 0,
+                      "textAlign": undefined,
+                      "textAlignVertical": "auto",
+                    }
+                  }
+                  testID="redibs-ucl.input.text-entry"
+                  underlineColorAndroid="transparent"
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "stretch",
+                      "backgroundColor": undefined,
+                      "bottom": undefined,
+                      "flexBasis": "auto",
+                      "flexDirection": "row",
+                      "flexGrow": 0,
+                      "flexShrink": 1,
+                      "height": undefined,
+                      "justifyContent": "flex-start",
+                      "left": undefined,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": undefined,
+                      "width": undefined,
+                    }
+                  }
+                >
+                  <View
+                    accessibilityLabel="redibs-ucl.clickable-opacity"
+                    accessible={true}
+                    focusable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                    testID="redibs-ucl.clickable-opacity"
+                  >
+                    <Text
+                      accessibilityLabel="redibs-ucl.text"
+                      style={
+                        Array [
+                          Object {
+                            "fontFamily": "Mulish-Regular",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 20,
+                          },
+                          Object {
+                            "color": "#00A87E",
+                            "textAlign": undefined,
+                            "textDecorationLine": undefined,
+                          },
+                        ]
+                      }
+                      testID="redibs-ucl.text"
+                    >
+                      [missing "en.common-actions.show" translation]
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "margin": undefined,
+                    "marginBottom": undefined,
+                    "marginLeft": 4,
+                    "marginRight": 4,
+                    "marginTop": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <View>
+                  <ActivityIndicator
+                    accessibilityLabel="redibs-ucl.input.activity-indicator"
+                    animating={true}
+                    color="#00A87E"
+                    hidesWhenStopped={true}
+                    pointerEvents="none"
+                    size="small"
+                    testID="redibs-ucl.input.activity-indicator"
+                  />
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.left-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.left-helper-text"
+          >
+            Left Helper Text
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row-reverse",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.right-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.right-helper-text"
+          >
+            Right Helper Text
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Input Snapshot Tests input with no error and without loading 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.input"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+  testID="redibs-ucl.input"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": undefined,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "flexWrap": undefined,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <Text
+          accessibilityLabel="redibs-ucl.input.title"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Mulish-Bold",
+                "fontSize": 14,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              Object {
+                "color": "#121212",
+                "textAlign": undefined,
+                "textDecorationLine": undefined,
+              },
+            ]
+          }
+          testID="redibs-ucl.input.title"
+        >
+          Sample Title
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "borderColor": "#8A8A8A",
+            "borderRadius": 4,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": "hidden",
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "column",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "margin": 8,
+                "marginBottom": undefined,
+                "marginLeft": undefined,
+                "marginRight": undefined,
+                "marginTop": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "row",
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "margin": undefined,
+                    "marginBottom": undefined,
+                    "marginLeft": 4,
+                    "marginRight": 4,
+                    "marginTop": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <home-fill.svg
+                  alwaysDark="#121212"
+                  alwaysLight="#FFFFFF"
+                  basalt="#8A8A8A"
+                  crystal="#FFFFFF"
+                  crystalHover="#F7F7F7"
+                  crystalPressed="#EEEEEE"
+                  disabled="#FAFAFA"
+                  glacialBlue="#3D98D2"
+                  granite="#ABABAB"
+                  larchYellow="#F4BE19"
+                  larchYellowHover="#F5D624"
+                  larchYellowPressed="#F3A70C"
+                  limestone="#E2E2E2"
+                  limestoneHover="#EEEEEE"
+                  limestonePressed="#D0D0D0"
+                  obsidian="#121212"
+                  overlay="rgba(18,18,18,0.3)"
+                  paintbrushRed="#E05666"
+                  green="#00A87E"
+                  greenHighlight="#DEF3EC"
+                  greenHover="#43B893"
+                  greenPressed="#00986A"
+                  quartz="#FAFAFA"
+                  tintColor="#8A8A8A"
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "stretch",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "flexWrap": undefined,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "overflow": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <TextInput
+                  accessibilityLabel="redibs-ucl.input.text-entry"
+                  allowFontScaling={true}
+                  autoCapitalize="none"
+                  autoCompleteType="off"
+                  autoCorrect={true}
+                  inputAccessoryViewID="stickyDoneBar"
+                  multiline={false}
+                  onBlur={[Function]}
+                  onContentSizeChange={[Function]}
+                  onEndEditing={[Function]}
+                  onFocus={[Function]}
+                  onKeyPress={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="Sample hint text"
+                  placeholderTextColor="#ABABAB"
+                  rejectResponderTermination={true}
+                  secureTextEntry={true}
+                  selectionColor="#00A87E"
+                  showSoftInputOnFocus={true}
+                  style={
+                    Object {
+                      "alignSelf": "stretch",
+                      "color": "#121212",
+                      "flex": 0,
+                      "flexDirection": "row",
+                      "fontFamily": "Mulish-Regular",
+                      "fontSize": 16,
+                      "fontWeight": "normal",
+                      "margin": 0,
+                      "maxHeight": 20,
+                      "minHeight": 20,
+                      "padding": 0,
+                      "textAlign": undefined,
+                      "textAlignVertical": "auto",
+                    }
+                  }
+                  testID="redibs-ucl.input.text-entry"
+                  underlineColorAndroid="transparent"
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "stretch",
+                      "backgroundColor": undefined,
+                      "bottom": undefined,
+                      "flexBasis": "auto",
+                      "flexDirection": "row",
+                      "flexGrow": 0,
+                      "flexShrink": 1,
+                      "height": undefined,
+                      "justifyContent": "flex-start",
+                      "left": undefined,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": undefined,
+                      "width": undefined,
+                    }
+                  }
+                >
+                  <View
+                    accessibilityLabel="redibs-ucl.clickable-opacity"
+                    accessible={true}
+                    focusable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                    testID="redibs-ucl.clickable-opacity"
+                  >
+                    <Text
+                      accessibilityLabel="redibs-ucl.text"
+                      style={
+                        Array [
+                          Object {
+                            "fontFamily": "Mulish-Regular",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 20,
+                          },
+                          Object {
+                            "color": "#00A87E",
+                            "textAlign": undefined,
+                            "textDecorationLine": undefined,
+                          },
+                        ]
+                      }
+                      testID="redibs-ucl.text"
+                    >
+                      [missing "en.common-actions.show" translation]
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "center",
+                    "margin": undefined,
+                    "marginBottom": undefined,
+                    "marginLeft": 4,
+                    "marginRight": 4,
+                    "marginTop": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <home-fill.svg
+                  alwaysDark="#121212"
+                  alwaysLight="#FFFFFF"
+                  basalt="#8A8A8A"
+                  crystal="#FFFFFF"
+                  crystalHover="#F7F7F7"
+                  crystalPressed="#EEEEEE"
+                  disabled="#FAFAFA"
+                  glacialBlue="#3D98D2"
+                  granite="#ABABAB"
+                  larchYellow="#F4BE19"
+                  larchYellowHover="#F5D624"
+                  larchYellowPressed="#F3A70C"
+                  limestone="#E2E2E2"
+                  limestoneHover="#EEEEEE"
+                  limestonePressed="#D0D0D0"
+                  obsidian="#121212"
+                  overlay="rgba(18,18,18,0.3)"
+                  paintbrushRed="#E05666"
+                  green="#00A87E"
+                  greenHighlight="#DEF3EC"
+                  greenHover="#43B893"
+                  greenPressed="#00986A"
+                  quartz="#FAFAFA"
+                  tintColor="#8A8A8A"
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": 8,
+            "width": undefined,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "overflow": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.left-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.left-helper-text"
+          >
+            Left Helper Text
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row-reverse",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.input.right-helper-text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Regular",
+                  "fontSize": 12,
+                  "fontWeight": "normal",
+                  "lineHeight": 14,
+                },
+                Object {
+                  "color": "#8A8A8A",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.input.right-helper-text"
+          >
+            Right Helper Text
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

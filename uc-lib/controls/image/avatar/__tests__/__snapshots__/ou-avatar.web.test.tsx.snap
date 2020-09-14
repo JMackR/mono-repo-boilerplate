@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar Snapshot Tests Avatar renders properly with children 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.container {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 100px;
+  height: 0px;
+  border-radius: 50px;
+  padding-top: 100%;
+  overflow: hidden;
+  min-width: 100px;
+}
+
+.image {
+  position: absolute;
+  max-width: 100%;
+  top: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.children {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
+<div
+  className="ouflex"
+>
+  <picture
+    className="container"
+  >
+    <source
+      srcSet="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+    />
+    <img
+      className="image"
+      onLoad={[Function]}
+      src="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+    />
+    <div
+      className="children"
+    />
+  </picture>
+  <p>
+    Hype!
+  </p>
+</div>
+`;
+
+exports[`Avatar Snapshot Tests Avatar renders properly without children 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.container {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 100px;
+  height: 0px;
+  border-radius: 50px;
+  padding-top: 100%;
+  overflow: hidden;
+  min-width: 100px;
+}
+
+.image {
+  position: absolute;
+  max-width: 100%;
+  top: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.children {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
+<div
+  className="ouflex"
+>
+  <picture
+    className="container"
+  >
+    <source
+      srcSet="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+    />
+    <img
+      className="image"
+      onLoad={[Function]}
+      src="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+    />
+    <div
+      className="children"
+    />
+  </picture>
+</div>
+`;

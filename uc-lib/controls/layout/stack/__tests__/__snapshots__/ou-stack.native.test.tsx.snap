@@ -1,0 +1,257 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stack Snapshot Tests horizontal renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 1
+  </Text>
+  <View
+    style={
+      Object {
+        "height": undefined,
+        "width": 8,
+      }
+    }
+  />
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 2
+  </Text>
+  <View
+    style={
+      Object {
+        "height": undefined,
+        "width": 8,
+      }
+    }
+  />
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 3
+  </Text>
+  <View
+    style={
+      Object {
+        "height": undefined,
+        "width": 8,
+      }
+    }
+  />
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 4
+  </Text>
+</View>
+`;
+
+exports[`Stack Snapshot Tests vertical renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 1
+  </Text>
+  <View
+    style={
+      Object {
+        "height": undefined,
+        "width": 8,
+      }
+    }
+  />
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 2
+  </Text>
+  <View
+    style={
+      Object {
+        "height": undefined,
+        "width": 8,
+      }
+    }
+  />
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 3
+  </Text>
+  <View
+    style={
+      Object {
+        "height": undefined,
+        "width": 8,
+      }
+    }
+  />
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String 4
+  </Text>
+</View>
+`;

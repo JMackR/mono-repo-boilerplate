@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders height/aspectRatio/resizeMode 1`] = `
+.children {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
+.container {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 180px;
+  height: 0px;
+  border-radius: undefined;
+  padding-top: 83.33333333333334%;
+  overflow: hidden;
+  min-width: 180px;
+}
+
+.image {
+  position: absolute;
+  max-width: 100%;
+  top: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+<picture
+  className="container"
+>
+  <source
+    srcSet="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <img
+    className="image"
+    onLoad={[Function]}
+    src="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <div
+    className="children"
+  />
+</picture>
+`;
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders width/aspectRatio/resizeMode 1`] = `
+.children {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
+.container {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 100px;
+  height: 0px;
+  border-radius: 0px;
+  padding-top: 83.33333333333334%;
+  overflow: hidden;
+  min-width: 100px;
+}
+
+.image {
+  position: absolute;
+  max-width: 100%;
+  top: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+<picture
+  className="container"
+>
+  <source
+    srcSet="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <img
+    className="image"
+    onLoad={[Function]}
+    src="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <div
+    className="children"
+  />
+</picture>
+`;
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders width/height/resizeMode/borderRadius 1`] = `
+.container {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 100px;
+  height: 0px;
+  border-radius: 4px;
+  padding-top: 66.66666666666666%;
+  overflow: hidden;
+  min-width: 100px;
+}
+
+.image {
+  position: absolute;
+  max-width: 100%;
+  top: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+  display: block;
+}
+
+.children {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
+<picture
+  className="container"
+>
+  <source
+    srcSet="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <img
+    className="image"
+    onLoad={[Function]}
+    src="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <div
+    className="children"
+  />
+</picture>
+`;
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders width/height/resizeMode/borderRadius and children 1`] = `
+.container {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 100px;
+  height: 0px;
+  border-radius: 4px;
+  padding-top: 66.66666666666666%;
+  overflow: hidden;
+  min-width: 100px;
+}
+
+.image {
+  position: absolute;
+  max-width: 100%;
+  top: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+  display: block;
+}
+
+.children {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 2;
+}
+
+<picture
+  className="container"
+>
+  <source
+    srcSet="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <img
+    className="image"
+    onLoad={[Function]}
+    src="https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU"
+  />
+  <div
+    className="children"
+  >
+    <p>
+      Hype!
+    </p>
+  </div>
+</picture>
+`;

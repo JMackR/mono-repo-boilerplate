@@ -1,0 +1,1033 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Snapshot Tests Buy Now large button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.text {
+  color: #121212;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #121212;
+}
+
+.text:active {
+  color: #121212;
+}
+
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #F4BE19;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #F5D624;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #F3A70C;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      buynow
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Buy Now small button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.text {
+  color: #121212;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #121212;
+}
+
+.text:active {
+  color: #121212;
+}
+
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #F4BE19;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #F5D624;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #F3A70C;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      buynow
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Disabled large button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #FAFAFA;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #E2E2E2;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #FAFAFA;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #FAFAFA;
+}
+
+.text {
+  color: #ABABAB;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #ABABAB;
+}
+
+.text:active {
+  color: #ABABAB;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      disabled
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Disabled small button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 6px;
+  padding-right: 6px;
+  height: 32px;
+  background-color: #FAFAFA;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #E2E2E2;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #FAFAFA;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #FAFAFA;
+}
+
+.text {
+  color: #ABABAB;
+  flex: 1;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #ABABAB;
+}
+
+.text:active {
+  color: #ABABAB;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      disabled
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Flat large button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.text {
+  color: #00A87E;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #43B893;
+}
+
+.text:active {
+  color: #00986A;
+}
+
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #FFFFFF00;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #F7F7F7;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #EEEEEE;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      flat
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Flat large small renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.text {
+  color: #00A87E;
+  flex: 1;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #43B893;
+}
+
+.text:active {
+  color: #00986A;
+}
+
+.button {
+  padding-left: 6px;
+  padding-right: 6px;
+  height: 32px;
+  background-color: #FFFFFF00;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #F7F7F7;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #EEEEEE;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      flat
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Primary large button renderer.creates properly 1`] = `
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #00A87E;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #43B893;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #00986A;
+}
+
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.text {
+  color: #FFFFFF;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #F7F7F7;
+}
+
+.text:active {
+  color: #EEEEEE;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      test
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Primary large button with icon as LocalSVGSource renderer.creates properly 1`] = `
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #00A87E;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #43B893;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #00986A;
+}
+
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.text {
+  color: #FFFFFF;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #F7F7F7;
+}
+
+.text:active {
+  color: #EEEEEE;
+}
+
+.iconContainer {
+  padding-right: 8px;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="iconContainer"
+  >
+    <span
+      className="icon"
+    >
+      <location-fill-pin.svg
+        alwaysdark="#121212"
+        alwayslight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalhover="#F7F7F7"
+        crystalpressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialblue="#3D98D2"
+        granite="#ABABAB"
+        height={20}
+        larchyellow="#F4BE19"
+        larchyellowhover="#F5D624"
+        larchyellowpressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestonehover="#EEEEEE"
+        limestonepressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushred="#E05666"
+        palousegreen="#00A87E"
+        palousegreenhighlight="#DEF3EC"
+        palousegreenhover="#43B893"
+        palousegreenpressed="#00986A"
+        quartz="#FAFAFA"
+        tintcolor="#FFFFFF"
+        width={20}
+      />
+    </span>
+  </div>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      has svg
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Primary small button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 6px;
+  padding-right: 6px;
+  height: 32px;
+  background-color: #00A87E;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #43B893;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #00986A;
+}
+
+.text {
+  color: #FFFFFF;
+  flex: 1;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #F7F7F7;
+}
+
+.text:active {
+  color: #EEEEEE;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      test
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Primary small button with icon as LocalSVGSource renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 6px;
+  padding-right: 6px;
+  height: 32px;
+  background-color: #00A87E;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #43B893;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #00986A;
+}
+
+.text {
+  color: #FFFFFF;
+  flex: 1;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #F7F7F7;
+}
+
+.text:active {
+  color: #EEEEEE;
+}
+
+.iconContainer {
+  padding-right: 8px;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="iconContainer"
+  >
+    <span
+      className="icon"
+    >
+      <location-fill-pin.svg
+        alwaysdark="#121212"
+        alwayslight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalhover="#F7F7F7"
+        crystalpressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialblue="#3D98D2"
+        granite="#ABABAB"
+        height={20}
+        larchyellow="#F4BE19"
+        larchyellowhover="#F5D624"
+        larchyellowpressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestonehover="#EEEEEE"
+        limestonepressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushred="#E05666"
+        palousegreen="#00A87E"
+        palousegreenhighlight="#DEF3EC"
+        palousegreenhover="#43B893"
+        palousegreenpressed="#00986A"
+        quartz="#FAFAFA"
+        tintcolor="#FFFFFF"
+        width={20}
+      />
+    </span>
+  </div>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      has svg
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Secondary large button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00A87E;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #F7F7F7;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #EEEEEE;
+}
+
+.text {
+  color: #00A87E;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #43B893;
+}
+
+.text:active {
+  color: #00986A;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      testingsecondary
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Secondary small button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 6px;
+  padding-right: 6px;
+  height: 32px;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00A87E;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #F7F7F7;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #EEEEEE;
+}
+
+.text {
+  color: #00A87E;
+  flex: 1;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #43B893;
+}
+
+.text:active {
+  color: #00986A;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      testingsecondary
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Tertiary large button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  background-color: #E2E2E2;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #EEEEEE;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #D0D0D0;
+}
+
+.text {
+  color: #121212;
+  flex: 1;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #121212;
+}
+
+.text:active {
+  color: #121212;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      tert
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Button Snapshot Tests Tertiary small button renderer.creates properly 1`] = `
+.textContainer {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+}
+
+.button {
+  padding-left: 6px;
+  padding-right: 6px;
+  height: 32px;
+  background-color: #E2E2E2;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #00000000;
+  border-width: 1px;
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  line-height: 24px;
+  user-select: none;
+}
+
+.button:hover {
+  background-color: #EEEEEE;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #D0D0D0;
+}
+
+.text {
+  color: #121212;
+  flex: 1;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text:hover {
+  color: #121212;
+}
+
+.text:active {
+  color: #121212;
+}
+
+<div
+  className="button"
+  onClick={[Function]}
+>
+  <div
+    className="textContainer"
+  >
+    <span
+      className="text"
+    >
+      tert
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,395 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AffirmRejectDialog tests Render content 1`] = `
+<View
+  style={
+    Object {
+      "alignContent": "center",
+      "alignItems": "center",
+      "backgroundColor": "rgba(18,18,18,0.3)",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": 16,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignContent": "center",
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 8,
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "stretch",
+            "backgroundColor": undefined,
+            "flexBasis": "auto",
+            "flexDirection": "row",
+            "flexGrow": 0,
+            "flexShrink": 1,
+            "height": undefined,
+            "justifyContent": "flex-start",
+            "margin": 16,
+            "marginBottom": undefined,
+            "marginLeft": undefined,
+            "marginRight": undefined,
+            "marginTop": undefined,
+            "width": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "row",
+                "flexGrow": 0,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "margin": undefined,
+                "marginBottom": undefined,
+                "marginLeft": 16,
+                "marginRight": 16,
+                "marginTop": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "row",
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "flexWrap": undefined,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "stretch",
+                    "backgroundColor": undefined,
+                    "flexBasis": "auto",
+                    "flexDirection": "column",
+                    "flexGrow": 0,
+                    "flexShrink": 1,
+                    "height": undefined,
+                    "justifyContent": "flex-start",
+                    "overflow": undefined,
+                    "width": undefined,
+                  }
+                }
+              >
+                <Text
+                  accessibilityLabel="redibs-ucl.affirm-reject-dialog.title"
+                  style={
+                    Array [
+                      Object {
+                        "fontFamily": "Mulish-Bold",
+                        "fontSize": 20,
+                        "fontWeight": "900",
+                        "lineHeight": 24,
+                      },
+                      Object {
+                        "color": "#121212",
+                        "textAlign": "center",
+                        "textDecorationLine": undefined,
+                      },
+                    ]
+                  }
+                  testID="redibs-ucl.affirm-reject-dialog.title"
+                >
+                  Test Title
+                </Text>
+                <View
+                  style={
+                    Object {
+                      "height": 16,
+                      "width": undefined,
+                    }
+                  }
+                />
+                <Text
+                  accessibilityLabel="redibs-ucl.affirm-reject-dialog.body"
+                  style={
+                    Array [
+                      Object {
+                        "fontFamily": "Mulish-Regular",
+                        "fontSize": 16,
+                        "fontWeight": "normal",
+                        "lineHeight": 20,
+                      },
+                      Object {
+                        "color": "#121212",
+                        "textAlign": "center",
+                        "textDecorationLine": undefined,
+                      },
+                    ]
+                  }
+                  testID="redibs-ucl.affirm-reject-dialog.body"
+                >
+                  Test Body
+                </Text>
+                <View
+                  style={
+                    Object {
+                      "height": 16,
+                      "width": undefined,
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "height": 16,
+                      "width": undefined,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "stretch",
+                "backgroundColor": undefined,
+                "flexBasis": "auto",
+                "flexDirection": "row",
+                "flexGrow": 0,
+                "flexShrink": 1,
+                "height": undefined,
+                "justifyContent": "flex-start",
+                "overflow": undefined,
+                "width": undefined,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "stretch",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "column",
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "flexWrap": undefined,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                accessibilityLabel="redibs-ucl.affirm-reject-dialog.reject-button"
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignContent": "stretch",
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(226, 226, 226, 1)",
+                    "borderRadius": 4,
+                    "flex": 0,
+                    "flexDirection": "row",
+                    "flexWrap": "nowrap",
+                    "height": 40,
+                    "justifyContent": "center",
+                    "paddingHorizontal": 8,
+                  }
+                }
+                testID="redibs-ucl.affirm-reject-dialog.reject-button"
+              >
+                <View
+                  style={
+                    Object {
+                      "alignSelf": "auto",
+                      "flex": 0,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    accessibilityLabel="redibs-ucl.button.title"
+                    style={
+                      Array [
+                        Object {
+                          "alignContent": "center",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "fontFamily": "Mulish-Bold",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "color": "#121212",
+                        },
+                      ]
+                    }
+                    testID="redibs-ucl.button.title"
+                  >
+                    No
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "height": undefined,
+                  "width": 8,
+                }
+              }
+            />
+            <View
+              style={
+                Object {
+                  "alignItems": "stretch",
+                  "backgroundColor": undefined,
+                  "flexBasis": "auto",
+                  "flexDirection": "column",
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "flexWrap": undefined,
+                  "height": undefined,
+                  "justifyContent": "flex-start",
+                  "overflow": undefined,
+                  "width": undefined,
+                }
+              }
+            >
+              <View
+                accessibilityLabel="redibs-ucl.affirm-reject-dialog.affirm-button"
+                accessibilityRole="button"
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignContent": "stretch",
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(0, 168, 126, 1)",
+                    "borderRadius": 4,
+                    "flex": 0,
+                    "flexDirection": "row",
+                    "flexWrap": "nowrap",
+                    "height": 40,
+                    "justifyContent": "center",
+                    "paddingHorizontal": 8,
+                  }
+                }
+                testID="redibs-ucl.affirm-reject-dialog.affirm-button"
+              >
+                <View
+                  style={
+                    Object {
+                      "alignSelf": "auto",
+                      "flex": 0,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    accessibilityLabel="redibs-ucl.button.title"
+                    style={
+                      Array [
+                        Object {
+                          "alignContent": "center",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "fontFamily": "Mulish-Bold",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "color": "#FFFFFF",
+                        },
+                      ]
+                    }
+                    testID="redibs-ucl.button.title"
+                  >
+                    Yes
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

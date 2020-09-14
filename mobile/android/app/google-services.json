@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766021156729",
+    "firebase_url": "https://redibs.firebaseio.com",
+    "project_id": "redibs",
+    "storage_bucket": "redibs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766021156729:android:5b5c7258590a49bbd6f9a8",
+        "android_client_info": {
+          "package_name": "com.redibs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766021156729-2co306tumc8459g57m7q5nu5eh63l7kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtwRbXWgCU4TbGysrxLtWQcdw39KH5xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766021156729-2co306tumc8459g57m7q5nu5eh63l7kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766021156729-tofuj1c7t2rdvuf5sm7n1aso72lp9h21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.redibs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

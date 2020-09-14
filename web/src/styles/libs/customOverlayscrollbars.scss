@@ -1,0 +1,49 @@
+.os-theme-dark {
+  & > .os-scrollbar {
+    &:hover {
+      & > .os-scrollbar-track {
+        & > .os-scrollbar-handle {
+          background: $gray-dark-color;
+        }
+      }
+    }
+    & > .os-scrollbar-track {
+      & > .os-scrollbar-handle {
+        background: $gray-main-color;
+        &.active {
+          background: $primary-main-color;
+        }
+      }
+    }
+  }
+  .os-scrollbar-vertical {
+    width: 18px;
+    padding: 8px 5px;
+  }
+
+  @media (min-width: $breakpoint-sm) {
+    .os-scrollbar-vertical {
+      width: 24px;
+      padding: 8px;
+    }
+  }
+}
+
+.os-host {
+  padding: 5px 30px 5px 10px;
+  border: 1px solid $gray-main-color;
+  border-radius: $main-border-radius;
+  &:last-child {
+    margin-bottom: 40px;
+  }
+}
+.os-padding {
+  top: 5px;
+  bottom: 5px;
+}
+
+@media (min-width: $breakpoint-sm) {
+  .os-host {
+    padding: 17px 36px 17px 22px;
+  }
+}

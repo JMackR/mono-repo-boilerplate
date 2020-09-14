@@ -1,0 +1,21 @@
+<svg width="193" height="168" viewBox="0 0 193 168">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#3D98D2" fill-opacity=".1" d="M0 76.982l48.597 28.903 19.914 8.68 20.776-8.68 49.936-29.134v84.793c.392 3.682-2.786 5.523-9.533 5.523H7.332C2.444 166.634 0 164.793 0 161.544V76.982z" transform="translate(.5 .284)"/>
+        <path fill="#3D98D2" fill-opacity=".1" d="M2.925 74.592l57.068-42.107c5.718-4.22 13.519-4.22 19.237 0l57.068 42.107c1.84 1.358 2.925 3.508 2.925 5.794v79.481c0 3.977-3.224 7.2-7.2 7.2H7.2c-3.976 0-7.2-3.223-7.2-7.2V80.386c0-2.286 1.086-4.436 2.925-5.794z" transform="translate(.5 .284)"/>
+        <path stroke="#84CEFD" stroke-width="4.5" d="M95.499 101.005L129.642 164.701 8.576 164.701 43.98 101.005" transform="translate(.5 .284)"/>
+        <path stroke="#84CEFD" stroke-linecap="round" stroke-width="4.5" d="M1.748 77.391c39.086 24.782 61.34 37.173 66.763 37.173 5.422 0 28.993-12.527 70.712-37.582" transform="translate(.5 .284)"/>
+        <g transform="translate(.5 .284) translate(88.447)">
+            <rect width="102.37" height="131.852" fill="#FFF" stroke="#8F9096" stroke-width="4.5" rx="2.7"/>
+            <rect width="32.758" height="32.758" x="10.646" y="13.103" stroke="#DADBE2" stroke-width="4.5" rx="1.8"/>
+            <text fill="#8F9096" font-family="Lato-Black, Lato" font-size="26.1" font-weight="700">
+                <tspan x="20.166" y="38.482">F</tspan>
+            </text>
+            <rect width="32.814" height="7.374" x="58.245" y="18.025" fill="#DADBE2" rx="3.687"/>
+            <rect width="61.527" height="7.374" x="20.509" y="73.738" fill="#DADBE2" rx="3.687"/>
+            <rect width="32.814" height="7.374" x="58.245" y="34.411" fill="#DADBE2" rx="3.687"/>
+            <rect width="61.527" height="7.374" x="20.509" y="86.028" fill="#DADBE2" rx="3.687"/>
+            <rect width="61.527" height="7.374" x="20.509" y="97.498" fill="#DADBE2" rx="3.687"/>
+            <path stroke="#DADBE2" stroke-linecap="round" stroke-width="1.8" d="M10.665 59.81L91.059 59.81"/>
+        </g>
+    </g>
+</svg>

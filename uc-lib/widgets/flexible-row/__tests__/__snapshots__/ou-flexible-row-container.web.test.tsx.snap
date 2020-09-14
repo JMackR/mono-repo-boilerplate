@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlexibleRow Snapshot Tests Render 1`] = `
+.borderView {
+  margin-left: 16px;
+  margin-right: 16px;
+  background-color: #E2E2E2;
+  height: 1px;
+  display: flex;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.container {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  min-height: 42px;
+  height: undefined;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  user-select: undefined;
+  cursor: pointer;
+  align-items: center;
+  vertical-align: middle;
+  background-color: #FFFFFF;
+}
+
+.mainContentColumn {
+  flex-grow: 1;
+  align-self: center;
+  flex-direction: column;
+}
+
+.rightActionColumn {
+  margin-left: 8px;
+}
+
+.rightIconColumn {
+  display: inline-flex;
+  padding-left: 8px;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="borderView"
+  />
+  <div
+    className="container"
+    onClick={[Function]}
+  >
+    <div
+      className="mainContentColumn"
+    >
+      <span>
+        <div
+          className="text-textStyle"
+        >
+          Text
+        </div>
+      </span>
+    </div>
+    <div
+      className="rightActionColumn"
+    />
+    <div
+      className="rightIconColumn"
+    >
+      <actions-chevron-right-line.svg
+        alwaysdark="#121212"
+        alwayslight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalhover="#F7F7F7"
+        crystalpressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialblue="#3D98D2"
+        granite="#ABABAB"
+        larchyellow="#F4BE19"
+        larchyellowhover="#F5D624"
+        larchyellowpressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestonehover="#EEEEEE"
+        limestonepressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushred="#E05666"
+        palousegreen="#00A87E"
+        palousegreenhighlight="#DEF3EC"
+        palousegreenhover="#43B893"
+        palousegreenpressed="#00986A"
+        quartz="#FAFAFA"
+        tintcolor="#ABABAB"
+      />
+    </div>
+  </div>
+  <div
+    className="borderView"
+  />
+</div>
+`;
+
+exports[`FlexibleRow Snapshot Tests Render with extended margins 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.container {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  min-height: 42px;
+  height: undefined;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  user-select: undefined;
+  cursor: pointer;
+  align-items: center;
+  vertical-align: middle;
+  background-color: #FFFFFF;
+}
+
+.mainContentColumn {
+  flex-grow: 1;
+  align-self: center;
+  flex-direction: column;
+}
+
+.rightActionColumn {
+  margin-left: 8px;
+}
+
+.rightIconColumn {
+  display: inline-flex;
+  padding-left: 8px;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.borderView {
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #E2E2E2;
+  height: 1px;
+  display: flex;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="borderView"
+  />
+  <div
+    className="container"
+    onClick={[Function]}
+  >
+    <div
+      className="mainContentColumn"
+    >
+      <span>
+        <div
+          className="text-textStyle"
+        >
+          Text
+        </div>
+      </span>
+    </div>
+    <div
+      className="rightActionColumn"
+    />
+    <div
+      className="rightIconColumn"
+    >
+      <actions-chevron-right-line.svg
+        alwaysdark="#121212"
+        alwayslight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalhover="#F7F7F7"
+        crystalpressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialblue="#3D98D2"
+        granite="#ABABAB"
+        larchyellow="#F4BE19"
+        larchyellowhover="#F5D624"
+        larchyellowpressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestonehover="#EEEEEE"
+        limestonepressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushred="#E05666"
+        palousegreen="#00A87E"
+        palousegreenhighlight="#DEF3EC"
+        palousegreenhover="#43B893"
+        palousegreenpressed="#00986A"
+        quartz="#FAFAFA"
+        tintcolor="#ABABAB"
+      />
+    </div>
+  </div>
+  <div
+    className="borderView"
+  />
+</div>
+`;

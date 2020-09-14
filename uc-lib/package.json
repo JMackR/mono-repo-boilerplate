@@ -1,0 +1,35 @@
+{
+  "name": "redibs-ucl",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --projects test/react test/react-native test/non-react"
+  },
+  "dependencies": {
+    "@types/ramda": "^0.27.14",
+    "classnames": "2.2.6",
+    "google-map-react": "1.1.7",
+    "hoist-non-react-statics": "3.3.2",
+    "imask": "6.0.5",
+    "react-compound-slider": "2.5.0",
+    "react-native-autolink": "3.0.0",
+    "react-native-fs": "^2.16.6",
+    "zxcvbn": "4.4.2"
+  },
+  "devDependencies": {},
+  "prettier": {
+    "printWidth": 125,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "all"
+  },
+  "jest-junit": {
+    "outputDirectory": "../build",
+    "ancestorSeparator": " › ",
+    "classNameTemplate": "{classname}",
+    "suiteName": "redibs-redibs-ucl jest tests",
+    "suiteNameTemplate": "{filename}",
+    "titleTemplate": "{title}",
+    "uniqueOutputName": "true"
+  }
+}

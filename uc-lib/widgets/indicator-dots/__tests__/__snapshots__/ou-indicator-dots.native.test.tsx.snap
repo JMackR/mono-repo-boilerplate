@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders one dot with selection 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "column",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "center",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "overflow": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#00A87E",
+          "borderRadius": 8,
+          "height": 8,
+          "width": 8,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`renders three dots with selection 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "column",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "center",
+      "overflow": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "overflow": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#E2E2E2",
+          "borderRadius": 8,
+          "height": 8,
+          "width": 8,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "height": undefined,
+          "width": 8,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#00A87E",
+          "borderRadius": 8,
+          "height": 8,
+          "width": 8,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "height": undefined,
+          "width": 8,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#E2E2E2",
+          "borderRadius": 8,
+          "height": 8,
+          "width": 8,
+        }
+      }
+    />
+  </View>
+</View>
+`;

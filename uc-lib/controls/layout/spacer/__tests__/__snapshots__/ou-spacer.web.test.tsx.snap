@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spacer Snapshot Tests Spacer renders horizontal space correctly 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: undefined;
+  width: 8px;
+  display: inline-block;
+}
+
+<div
+  style={
+    Object {
+      "flexDirection": "row",
+    }
+  }
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String 1
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 2
+  </div>
+</div>
+`;
+
+exports[`Spacer Snapshot Tests Spacer renders vertical space correctly 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: 8px;
+  width: undefined;
+  display: block;
+}
+
+<div
+  style={
+    Object {
+      "flexDirection": "column",
+    }
+  }
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String 1
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 2
+  </div>
+</div>
+`;

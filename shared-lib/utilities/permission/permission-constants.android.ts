@@ -1,0 +1,8 @@
+import { PERMISSIONS } from "react-native-permissions"
+
+export const PermissionConstants = {
+  Location: PERMISSIONS.ANDROID.ACCESS_FINE_LOCATION,
+  Camera: PERMISSIONS.ANDROID.CAMERA,
+  PhotoGallery: PERMISSIONS.ANDROID.READ_EXTERNAL_STORAGE,
+  Storage: PERMISSIONS.ANDROID.WRITE_EXTERNAL_STORAGE,
+}

@@ -1,0 +1,36 @@
+.video-preview {
+  display: block;
+  position: relative;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.15);
+
+  &:after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 59px;
+    height: 57px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('/public/assets/icons/icon-video-play.svg');
+  }
+
+  img {
+    width: 100%;
+    display: block;
+  }
+
+  &:not(:last-child) {
+    margin-bottom: 40px;
+  }
+
+  @media (min-width: $breakpoint-sm) {
+    &:not(:last-child) {
+      margin-bottom: 40px;
+    }
+  }
+}

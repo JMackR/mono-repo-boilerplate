@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SVG Snapshot Tests SVG renders localSVG  1`] = `
+<tru-ycircle-fill.svg
+  alwaysdark="#121212"
+  alwayslight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalhover="#F7F7F7"
+  crystalpressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialblue="#3D98D2"
+  granite="#ABABAB"
+  larchyellow="#F4BE19"
+  larchyellowhover="#F5D624"
+  larchyellowpressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestonehover="#EEEEEE"
+  limestonepressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushred="#E05666"
+  palousegreen="#00A87E"
+  palousegreenhighlight="#DEF3EC"
+  palousegreenhover="#43B893"
+  palousegreenpressed="#00986A"
+  quartz="#FAFAFA"
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders localSVG with overwritten width/height 1`] = `
+<tru-ycircle-fill.svg
+  alwaysdark="#121212"
+  alwayslight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalhover="#F7F7F7"
+  crystalpressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialblue="#3D98D2"
+  granite="#ABABAB"
+  height={120}
+  larchyellow="#F4BE19"
+  larchyellowhover="#F5D624"
+  larchyellowpressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestonehover="#EEEEEE"
+  limestonepressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushred="#E05666"
+  palousegreen="#00A87E"
+  palousegreenhighlight="#DEF3EC"
+  palousegreenhover="#43B893"
+  palousegreenpressed="#00986A"
+  quartz="#FAFAFA"
+  width={120}
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders remoteSVG 1`] = `
+<img
+  src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/compass.svg"
+  style={
+    Object {
+      "height": 120,
+      "width": 120,
+    }
+  }
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders tintable localSVG with error tint 1`] = `
+<home-fill.svg
+  alwaysdark="#121212"
+  alwayslight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalhover="#F7F7F7"
+  crystalpressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialblue="#3D98D2"
+  granite="#ABABAB"
+  larchyellow="#F4BE19"
+  larchyellowhover="#F5D624"
+  larchyellowpressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestonehover="#EEEEEE"
+  limestonepressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushred="#E05666"
+  palousegreen="#00A87E"
+  palousegreenhighlight="#DEF3EC"
+  palousegreenhover="#43B893"
+  palousegreenpressed="#00986A"
+  quartz="#FAFAFA"
+  tintcolor="#E05666"
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders tintable localSVG with link tint 1`] = `
+<home-fill.svg
+  alwaysdark="#121212"
+  alwayslight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalhover="#F7F7F7"
+  crystalpressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialblue="#3D98D2"
+  granite="#ABABAB"
+  larchyellow="#F4BE19"
+  larchyellowhover="#F5D624"
+  larchyellowpressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestonehover="#EEEEEE"
+  limestonepressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushred="#E05666"
+  palousegreen="#00A87E"
+  palousegreenhighlight="#DEF3EC"
+  palousegreenhover="#43B893"
+  palousegreenpressed="#00986A"
+  quartz="#FAFAFA"
+  tintcolor="#00A87E"
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders tintable localSVG without tint 1`] = `
+<home-fill.svg
+  alwaysdark="#121212"
+  alwayslight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalhover="#F7F7F7"
+  crystalpressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialblue="#3D98D2"
+  granite="#ABABAB"
+  larchyellow="#F4BE19"
+  larchyellowhover="#F5D624"
+  larchyellowpressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestonehover="#EEEEEE"
+  limestonepressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushred="#E05666"
+  palousegreen="#00A87E"
+  palousegreenhighlight="#DEF3EC"
+  palousegreenhover="#43B893"
+  palousegreenpressed="#00986A"
+  quartz="#FAFAFA"
+/>
+`;

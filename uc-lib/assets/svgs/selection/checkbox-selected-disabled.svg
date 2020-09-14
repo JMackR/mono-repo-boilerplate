@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="24" height="24" fill="limestone" rx="4.8"/>
+        <g fill="crystal">
+            <path fill-opacity="0" d="M0 0H14V14H0z" transform="translate(5 5)"/>
+            <path d="M4.786 10.864l-.058-.06L1.322 6.88c-.207-.238-.207-.623 0-.861.206-.238.54-.238.747 0l2.829 3.17c.311.35.847.38 1.196.069.027-.025.053-.051.077-.079l5.76-6.668c.206-.238.54-.238.747 0 .207.237.207.623 0 .86l-6.454 7.431c-.326.412-.924.481-1.336.155-.036-.029-.07-.06-.102-.094z" transform="translate(5 5)"/>
+        </g>
+    </g>
+</svg>

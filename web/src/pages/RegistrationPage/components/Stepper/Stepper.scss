@@ -1,0 +1,56 @@
+.some-wrapper {
+    margin: 50px;
+    max-width: 500px;
+    border: 1px solid dashed;
+    padding: 20px;
+}
+
+.stepper {
+    font-weight: bold;
+    padding-bottom: 1rem;
+    &-icons-wrapper,
+    &-labels-wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &-icons-wrapper {
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+    &-icon {
+        border-radius: 50%;
+        background: #ccc;
+        width: 33px;
+        height: 33px;
+        line-height: 33px;
+        text-align: center;
+        color: #5aa591;
+        z-index: 2;
+        position: relative;
+        font-weight: 700;
+        font-size: 18px;
+        &.active {
+            background: #49ceab;
+            color: white;
+        }
+    }
+
+    &-connector {
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        margin: auto;
+        height: 7px;
+        background: #ccc;
+
+        &-active {
+            background: #49ceab;
+            height: 100%;
+        }
+    }
+}

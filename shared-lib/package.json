@@ -1,0 +1,52 @@
+{
+  "name": "redibs-shared",
+  "version": "0.1.0",
+  "description": "Redibs Shared Library",
+  "private": true,
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.1.4",
+    "@react-native-community/slider": "^3.0.3",
+    "@types/i18n-js": "^3.0.3",
+    "@types/invariant": "^2.2.34",
+    "@types/lodash.memoize": "^4.1.6",
+    "aphrodite": "^2.4.0",
+    "apollo-client": "^2.6.10",
+    "apollo-link-context": "^1.0.20",
+    "apollo-link-error": "^1.1.13",
+    "apollo-link-http": "^1.5.17",
+    "apollo-upload-client": "^14.1.1",
+    "cross-fetch": "3.0.4",
+    "deep-freeze": "0.0.1",
+    "google-libphonenumber": "3.2.7",
+    "i18n-js": "3.7.1",
+    "invariant": "^2.2.4",
+    "isomorphic-unfetch": "3.0.0",
+    "json-bigint": "0.3.0",
+    "lodash.memoize": "4.1.2",
+    "react-google-login": "5.1.20",
+    "react-native": "0.61.5",
+    "react-native-keychain": "5.0.1",
+    "react-native-localize": "1.3.3",
+    "ts-enum-util": "4.0.2",
+    "zxcvbn": "4.4.2"
+  },
+  "devDependencies": {},
+  "prettier": {
+    "printWidth": 125,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "all"
+  },
+  "jest-junit": {
+    "outputDirectory": "../build",
+    "ancestorSeparator": " › ",
+    "classNameTemplate": "{classname}",
+    "suiteName": "redibs-shared jest tests",
+    "suiteNameTemplate": "{filename}",
+    "titleTemplate": "{title}",
+    "uniqueOutputName": "true"
+  }
+}

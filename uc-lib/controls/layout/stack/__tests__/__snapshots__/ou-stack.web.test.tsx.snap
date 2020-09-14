@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stack Snapshot Tests horizontal renders correctly 1`] = `
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: undefined;
+  width: 8px;
+  display: inline-block;
+}
+
+<div
+  className="oustack"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String 1
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 2
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 3
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 4
+  </div>
+</div>
+`;
+
+exports[`Stack Snapshot Tests vertical renders correctly 1`] = `
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: undefined;
+  width: 8px;
+  display: inline-block;
+}
+
+<div
+  className="oustack"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String 1
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 2
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 3
+  </div>
+  <div
+    className="root"
+  />
+  <div
+    className="text-textStyle"
+  >
+    Example String 4
+  </div>
+</div>
+`;

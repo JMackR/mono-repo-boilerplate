@@ -1,0 +1,31 @@
+ul.styled-ul-list {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+
+  li {
+    &:not(:last-child) {
+      margin-bottom: 20px;
+    }
+
+    padding-left: 22px;
+    position: relative;
+
+    &:before {
+      content: "\2022";
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 1;
+      color: $primary-main-color;
+      font-weight: bold;
+      display: block;
+      width: 10px;
+      line-height: 24px;
+      font-size: 20px;
+    }
+  }
+}

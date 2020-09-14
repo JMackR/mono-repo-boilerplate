@@ -1,0 +1,11 @@
+.MuiTypography-root.body1-bottom-indent {
+  margin-bottom: 25px;
+}
+
+.MuiTypography-root.body1-big-bottom-indent {
+  margin-bottom: 25px;
+
+  @media screen and (min-width: $breakpoint-sm) {
+    margin-bottom: 50px;
+  }
+}

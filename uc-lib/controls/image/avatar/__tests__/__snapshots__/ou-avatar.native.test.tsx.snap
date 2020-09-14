@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar Snapshot Tests Avatar renders properly with children 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "column",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": 100,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": 100,
+    }
+  }
+>
+  <View
+    accessibilityLabel="redibs-ucl.avatar-image"
+    style={
+      Object {
+        "alignItems": "center",
+        "aspectRatio": 1,
+        "height": 100,
+        "justifyContent": "center",
+        "width": 100,
+      }
+    }
+    testID="redibs-ucl.avatar-image"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "aspectRatio": 1,
+            "borderRadius": 50,
+            "height": 100,
+            "width": 100,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        onFastImageLoadEnd={[Function]}
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#E2E2E2",
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+      testID="redibs-ucl.remote-image.loading-view"
+    />
+  </View>
+  <Text>
+    Hype!
+  </Text>
+</View>
+`;
+
+exports[`Avatar Snapshot Tests Avatar renders properly without children 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "column",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "flexWrap": undefined,
+      "height": 100,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": 100,
+    }
+  }
+>
+  <View
+    accessibilityLabel="redibs-ucl.avatar-image"
+    style={
+      Object {
+        "alignItems": "center",
+        "aspectRatio": 1,
+        "height": 100,
+        "justifyContent": "center",
+        "width": 100,
+      }
+    }
+    testID="redibs-ucl.avatar-image"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "aspectRatio": 1,
+            "borderRadius": 50,
+            "height": 100,
+            "width": 100,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        onFastImageLoadEnd={[Function]}
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#E2E2E2",
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+      testID="redibs-ucl.remote-image.loading-view"
+    />
+  </View>
+</View>
+`;

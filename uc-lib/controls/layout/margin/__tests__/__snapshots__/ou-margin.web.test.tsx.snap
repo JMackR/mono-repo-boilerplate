@@ -1,0 +1,379 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Margin Snapshot Tests marginBottomStep renders correctly 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: 8px;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginBottomStep renders correctly over marginStep 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: 4px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: 8px;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginLeftStep renders correctly 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: 8px;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginLeftStep renders correctly over marginStep 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: 4px;
+  margin-left: 8px;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginRightStep renders correctly 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: 8px;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginRightStep renders correctly over marginStep 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: 4px;
+  margin-left: undefined;
+  margin-right: 8px;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginStep renders correctly 1`] = `
+.oumargin {
+  margin: 8px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginTopStep renders correctly 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: 8px;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;
+
+exports[`Margin Snapshot Tests marginTopStep renders correctly over marginStep 1`] = `
+.text-textStyle {
+  color: #121212;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.oumargin {
+  margin: 4px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: 8px;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+<div
+  className="oumargin"
+>
+  <div
+    className="text-textStyle"
+  >
+    Example String
+  </div>
+</div>
+`;

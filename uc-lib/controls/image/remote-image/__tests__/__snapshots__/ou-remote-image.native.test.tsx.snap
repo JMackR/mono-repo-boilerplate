@@ -1,0 +1,260 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders height/aspectRatio/resizeMode 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.remote-image"
+  style={
+    Object {
+      "alignItems": "center",
+      "aspectRatio": 1.2,
+      "height": 150,
+      "justifyContent": "center",
+      "width": 180,
+    }
+  }
+  testID="redibs-ucl.remote-image"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "overflow": "hidden",
+        },
+        Object {
+          "aspectRatio": 1.2,
+          "borderRadius": undefined,
+          "height": 150,
+          "width": 180,
+        },
+      ]
+    }
+  >
+    <FastImageView
+      onFastImageLoadEnd={[Function]}
+      resizeMode="cover"
+      source={
+        Object {
+          "uri": "https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU",
+        }
+      }
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E2E2E2",
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="redibs-ucl.remote-image.loading-view"
+  />
+</View>
+`;
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders width/aspectRatio/resizeMode 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.remote-image"
+  style={
+    Object {
+      "alignItems": "center",
+      "aspectRatio": 1.2,
+      "height": 83.33333333333334,
+      "justifyContent": "center",
+      "width": 100,
+    }
+  }
+  testID="redibs-ucl.remote-image"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "overflow": "hidden",
+        },
+        Object {
+          "aspectRatio": 1.2,
+          "borderRadius": 0,
+          "height": 83.33333333333334,
+          "width": 100,
+        },
+      ]
+    }
+  >
+    <FastImageView
+      onFastImageLoadEnd={[Function]}
+      resizeMode="contain"
+      source={
+        Object {
+          "uri": "https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU",
+        }
+      }
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E2E2E2",
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="redibs-ucl.remote-image.loading-view"
+  />
+</View>
+`;
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders width/height/resizeMode/borderRadius 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.remote-image"
+  style={
+    Object {
+      "alignItems": "center",
+      "aspectRatio": undefined,
+      "height": 150,
+      "justifyContent": "center",
+      "width": 100,
+    }
+  }
+  testID="redibs-ucl.remote-image"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "overflow": "hidden",
+        },
+        Object {
+          "aspectRatio": undefined,
+          "borderRadius": 4,
+          "height": 150,
+          "width": 100,
+        },
+      ]
+    }
+  >
+    <FastImageView
+      onFastImageLoadEnd={[Function]}
+      resizeMode="center"
+      source={
+        Object {
+          "uri": "https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU",
+        }
+      }
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E2E2E2",
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="redibs-ucl.remote-image.loading-view"
+  />
+</View>
+`;
+
+exports[`RemoteImage Snapshot Tests RemoteImage renders width/height/resizeMode/borderRadius and children 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.remote-image"
+  style={
+    Object {
+      "alignItems": "center",
+      "aspectRatio": undefined,
+      "height": 150,
+      "justifyContent": "center",
+      "width": 100,
+    }
+  }
+  testID="redibs-ucl.remote-image"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "overflow": "hidden",
+        },
+        Object {
+          "aspectRatio": undefined,
+          "borderRadius": 4,
+          "height": 150,
+          "width": 100,
+        },
+      ]
+    }
+  >
+    <FastImageView
+      onFastImageLoadEnd={[Function]}
+      resizeMode="center"
+      source={
+        Object {
+          "uri": "https://media-exp1.licdn.com/dms/image/C4E03AQHXHzRJLFryWw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=36ZZ3awsowdk_mAFr9oTQ5IS9moXDqNP9jRx_qR1hJU",
+        }
+      }
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+    <Text>
+      Hype!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#E2E2E2",
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+    testID="redibs-ucl.remote-image.loading-view"
+  />
+</View>
+`;

@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders one dot with selection 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: center;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.dot {
+  border-radius: 8px;
+  width: 8px;
+  height: 8px;
+  background-color: #00A87E;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oustack"
+  >
+    <div
+      className="dot"
+    />
+  </div>
+</div>
+`;
+
+exports[`renders three dots with selection 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: center;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.dot {
+  border-radius: 8px;
+  width: 8px;
+  height: 8px;
+  background-color: #00A87E;
+}
+
+.dot {
+  border-radius: 8px;
+  width: 8px;
+  height: 8px;
+  background-color: #E2E2E2;
+}
+
+.root {
+  height: undefined;
+  width: 8px;
+  display: inline-block;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oustack"
+  >
+    <div
+      className="dot"
+    />
+    <div
+      className="root"
+    />
+    <div
+      className="dot"
+    />
+    <div
+      className="root"
+    />
+    <div
+      className="dot"
+    />
+  </div>
+</div>
+`;

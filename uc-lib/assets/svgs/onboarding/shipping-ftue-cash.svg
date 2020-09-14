@@ -1,0 +1,21 @@
+<svg width="193" height="152" viewBox="0 0 193 152">
+    <g fill="none" fill-rule="evenodd" transform="translate(1.285 1.46)">
+        <circle cx="87.559" cy="74.455" r="74.455" fill="#3D98D2" fill-opacity=".1"/>
+        <g transform="rotate(-9 373.917 24.795)">
+            <rect width="144.531" height="77.641" fill="#7BCCB1" stroke="#FFF" stroke-width="4.5" rx="9.45"/>
+            <rect width="125.419" height="58.529" x="9.556" y="9.556" stroke="#00A87E" stroke-width="6.75" rx="5.4"/>
+            <circle cx="71.668" cy="38.223" r="19.112" fill="#7BCCB1"/>
+            <text fill="#FFF" font-family="Lato-Black, Lato" font-size="34.2" font-weight="700">
+                <tspan x="62.148" y="50.186">$</tspan>
+            </text>
+        </g>
+        <g transform="rotate(10 -80.383 283.768)">
+            <rect width="144.531" height="77.641" fill="#7BCCB1" stroke="#FFF" stroke-width="4.5" rx="9.45"/>
+            <rect width="125.419" height="58.529" x="9.556" y="9.556" stroke="#00A87E" stroke-width="6.75" rx="5.4"/>
+            <circle cx="71.668" cy="38.223" r="19.112" fill="#FFF"/>
+            <text fill="#FFF" font-family="Lato-Black, Lato" font-size="34.2" font-weight="700">
+                <tspan x="62.148" y="50.186">$</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

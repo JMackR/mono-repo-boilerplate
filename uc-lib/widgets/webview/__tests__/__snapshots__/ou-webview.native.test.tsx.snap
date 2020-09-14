@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WebView Snapshot Tests Render with custom colors 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flex": 1,
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <RNCWebView
+    cacheEnabled={true}
+    domStorageEnabled={true}
+    headerBackgroundColor="glacialBlue"
+    javaScriptEnabled={true}
+    messagingEnabled={false}
+    onContentProcessDidTerminate={[Function]}
+    onHttpError={[Function]}
+    onLoadingError={[Function]}
+    onLoadingFinish={[Function]}
+    onLoadingProgress={[Function]}
+    onLoadingStart={[Function]}
+    onMessage={[Function]}
+    onNavigationStateChange={[Function]}
+    onShouldStartLoadWithRequest={[Function]}
+    sharedCookiesEnabled={true}
+    source={
+      Object {
+        "uri": "https://redibs.com",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "flex": 1,
+          "overflow": "hidden",
+        },
+        Object {
+          "backgroundColor": "#ffffff",
+        },
+        undefined,
+      ]
+    }
+    testID="redibs-ucl.web-view"
+    textAndIconTint="brand"
+    useSharedProcessPool={true}
+  />
+</View>
+`;
+
+exports[`WebView Snapshot Tests Render with headers 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flex": 1,
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <RNCWebView
+    cacheEnabled={true}
+    domStorageEnabled={true}
+    javaScriptEnabled={true}
+    messagingEnabled={false}
+    onContentProcessDidTerminate={[Function]}
+    onHttpError={[Function]}
+    onLoadingError={[Function]}
+    onLoadingFinish={[Function]}
+    onLoadingProgress={[Function]}
+    onLoadingStart={[Function]}
+    onMessage={[Function]}
+    onNavigationStateChange={[Function]}
+    onShouldStartLoadWithRequest={[Function]}
+    sharedCookiesEnabled={true}
+    source={
+      Object {
+        "headers": Object {
+          "my-custom-header-key": "my-custom-header-value",
+        },
+        "uri": "https://redibs.com",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "flex": 1,
+          "overflow": "hidden",
+        },
+        Object {
+          "backgroundColor": "#ffffff",
+        },
+        undefined,
+      ]
+    }
+    testID="redibs-ucl.web-view"
+    useSharedProcessPool={true}
+  />
+</View>
+`;
+
+exports[`WebView Snapshot Tests Render with uri 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flex": 1,
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <RNCWebView
+    cacheEnabled={true}
+    domStorageEnabled={true}
+    javaScriptEnabled={true}
+    messagingEnabled={false}
+    onContentProcessDidTerminate={[Function]}
+    onHttpError={[Function]}
+    onLoadingError={[Function]}
+    onLoadingFinish={[Function]}
+    onLoadingProgress={[Function]}
+    onLoadingStart={[Function]}
+    onMessage={[Function]}
+    onNavigationStateChange={[Function]}
+    onShouldStartLoadWithRequest={[Function]}
+    sharedCookiesEnabled={true}
+    source={
+      Object {
+        "uri": "https://redibs.com",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "flex": 1,
+          "overflow": "hidden",
+        },
+        Object {
+          "backgroundColor": "#ffffff",
+        },
+        undefined,
+      ]
+    }
+    testID="redibs-ucl.web-view"
+    useSharedProcessPool={true}
+  />
+</View>
+`;

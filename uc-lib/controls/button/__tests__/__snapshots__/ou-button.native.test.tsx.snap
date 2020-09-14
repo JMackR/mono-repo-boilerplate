@@ -1,0 +1,997 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Snapshot Tests Buy Now large button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(244, 190, 25, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#121212",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      buynow
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Buy Now small button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(244, 190, 25, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#121212",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      buynow
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Disabled large button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(250, 250, 250, 1)",
+      "borderColor": "#E2E2E2",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#ABABAB",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      disabled
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Disabled small button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(250, 250, 250, 1)",
+      "borderColor": "#E2E2E2",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#ABABAB",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      disabled
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Flat large button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(255, 255, 255, 0)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#00A87E",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      flat
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Flat small button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(255, 255, 255, 0)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#00A87E",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      flat
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Primary large button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 168, 126, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#FFFFFF",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      test
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Primary large button with icon as LocalSVGSource renderer.creates properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 168, 126, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginRight": 8,
+        },
+      ]
+    }
+  >
+    <location-fill-pin.svg
+      alwaysDark="#121212"
+      alwaysLight="#FFFFFF"
+      basalt="#8A8A8A"
+      crystal="#FFFFFF"
+      crystalHover="#F7F7F7"
+      crystalPressed="#EEEEEE"
+      disabled="#FAFAFA"
+      glacialBlue="#3D98D2"
+      granite="#ABABAB"
+      larchYellow="#F4BE19"
+      larchYellowHover="#F5D624"
+      larchYellowPressed="#F3A70C"
+      limestone="#E2E2E2"
+      limestoneHover="#EEEEEE"
+      limestonePressed="#D0D0D0"
+      obsidian="#121212"
+      overlay="rgba(18,18,18,0.3)"
+      paintbrushRed="#E05666"
+      green="#00A87E"
+      greenHighlight="#DEF3EC"
+      greenHover="#43B893"
+      greenPressed="#00986A"
+      quartz="#FAFAFA"
+      tintColor="#FFFFFF"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#FFFFFF",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      has svg
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Primary small button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 168, 126, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#FFFFFF",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      test
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Primary small button with icon as LocalSVGSource renderer.creates properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 168, 126, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginRight": 8,
+        },
+      ]
+    }
+  >
+    <location-fill-pin.svg
+      alwaysDark="#121212"
+      alwaysLight="#FFFFFF"
+      basalt="#8A8A8A"
+      crystal="#FFFFFF"
+      crystalHover="#F7F7F7"
+      crystalPressed="#EEEEEE"
+      disabled="#FAFAFA"
+      glacialBlue="#3D98D2"
+      granite="#ABABAB"
+      larchYellow="#F4BE19"
+      larchYellowHover="#F5D624"
+      larchYellowPressed="#F3A70C"
+      limestone="#E2E2E2"
+      limestoneHover="#EEEEEE"
+      limestonePressed="#D0D0D0"
+      obsidian="#121212"
+      overlay="rgba(18,18,18,0.3)"
+      paintbrushRed="#E05666"
+      green="#00A87E"
+      greenHighlight="#DEF3EC"
+      greenHover="#43B893"
+      greenPressed="#00986A"
+      quartz="#FAFAFA"
+      tintColor="#FFFFFF"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#FFFFFF",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      has svg
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Secondary large button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "borderColor": "#00A87E",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#00A87E",
+          },
+          Object {
+            "color": "#00A87E",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      testingsecondary
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Secondary small button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(255, 255, 255, 1)",
+      "borderColor": "#00A87E",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#00A87E",
+          },
+          Object {
+            "color": "#00A87E",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      testingsecondary
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Tertiary large button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(226, 226, 226, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 40,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+          Object {
+            "color": "#121212",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      tert
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Button Snapshot Tests Tertiary small button renders properly 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.button"
+  accessibilityRole="button"
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignContent": "stretch",
+      "alignItems": "center",
+      "backgroundColor": "rgba(226, 226, 226, 1)",
+      "borderRadius": 4,
+      "flex": 0,
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": 32,
+      "justifyContent": "center",
+      "paddingHorizontal": 8,
+    }
+  }
+  testID="redibs-ucl.button"
+>
+  <View
+    style={
+      Object {
+        "alignSelf": "auto",
+        "flex": 0,
+        "flexDirection": "column",
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="redibs-ucl.button.title"
+      style={
+        Array [
+          Object {
+            "alignContent": "center",
+            "textAlign": "center",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "lineHeight": 16,
+          },
+          Object {
+            "color": "#121212",
+          },
+        ]
+      }
+      testID="redibs-ucl.button.title"
+    >
+      tert
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  color: '#5B6F80'
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}

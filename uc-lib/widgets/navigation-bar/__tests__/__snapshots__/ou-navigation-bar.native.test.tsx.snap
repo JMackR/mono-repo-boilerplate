@@ -1,0 +1,1605 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavigationBar /> Snapshot should render multiple left items 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.navigation-bar.left-items"
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": 16,
+        "position": "absolute",
+        "right": undefined,
+        "top": 16,
+        "width": undefined,
+      }
+    }
+    testID="redibs-ucl.navigation-bar.left-items"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.0"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.0"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Left1
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.1"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.1"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Left2
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<NavigationBar /> Snapshot should render multiple left items with icon 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.navigation-bar.left-items"
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": 16,
+        "position": "absolute",
+        "right": undefined,
+        "top": 16,
+        "width": undefined,
+      }
+    }
+    testID="redibs-ucl.navigation-bar.left-items"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.0"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.0"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Left1
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.1"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.1"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <location-fill-pin.svg
+            alwaysDark="#121212"
+            alwaysLight="#FFFFFF"
+            basalt="#8A8A8A"
+            crystal="#FFFFFF"
+            crystalHover="#F7F7F7"
+            crystalPressed="#EEEEEE"
+            disabled="#FAFAFA"
+            glacialBlue="#3D98D2"
+            granite="#ABABAB"
+            height={24}
+            larchYellow="#F4BE19"
+            larchYellowHover="#F5D624"
+            larchYellowPressed="#F3A70C"
+            limestone="#E2E2E2"
+            limestoneHover="#EEEEEE"
+            limestonePressed="#D0D0D0"
+            obsidian="#121212"
+            overlay="rgba(18,18,18,0.3)"
+            paintbrushRed="#E05666"
+            green="#00A87E"
+            greenHighlight="#DEF3EC"
+            greenHover="#43B893"
+            greenPressed="#00986A"
+            quartz="#FAFAFA"
+            tintColor="#00A87E"
+            width={24}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<NavigationBar /> Snapshot should render multiple right items 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.navigation-bar.right-items"
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row-reverse",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": undefined,
+        "position": "absolute",
+        "right": 16,
+        "top": 16,
+        "width": undefined,
+      }
+    }
+    testID="redibs-ucl.navigation-bar.right-items"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.0"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.0"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Right1
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.1"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.1"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Right2
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<NavigationBar /> Snapshot should render multiple right items with icons 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.navigation-bar.right-items"
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row-reverse",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": undefined,
+        "position": "absolute",
+        "right": 16,
+        "top": 16,
+        "width": undefined,
+      }
+    }
+    testID="redibs-ucl.navigation-bar.right-items"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.0"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.0"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Right1
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.1"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.1"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <location-fill-pin.svg
+            alwaysDark="#121212"
+            alwaysLight="#FFFFFF"
+            basalt="#8A8A8A"
+            crystal="#FFFFFF"
+            crystalHover="#F7F7F7"
+            crystalPressed="#EEEEEE"
+            disabled="#FAFAFA"
+            glacialBlue="#3D98D2"
+            granite="#ABABAB"
+            height={24}
+            larchYellow="#F4BE19"
+            larchYellowHover="#F5D624"
+            larchYellowPressed="#F3A70C"
+            limestone="#E2E2E2"
+            limestoneHover="#EEEEEE"
+            limestonePressed="#D0D0D0"
+            obsidian="#121212"
+            overlay="rgba(18,18,18,0.3)"
+            paintbrushRed="#E05666"
+            green="#00A87E"
+            greenHighlight="#DEF3EC"
+            greenHover="#43B893"
+            greenPressed="#00986A"
+            quartz="#FAFAFA"
+            tintColor="#00A87E"
+            width={24}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<NavigationBar /> Snapshot should render one left item 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.navigation-bar.left-items"
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": 16,
+        "position": "absolute",
+        "right": undefined,
+        "top": 16,
+        "width": undefined,
+      }
+    }
+    testID="redibs-ucl.navigation-bar.left-items"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.0"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.0"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Left1
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<NavigationBar /> Snapshot should render one right item 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityLabel="redibs-ucl.navigation-bar.right-items"
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row-reverse",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": undefined,
+        "position": "absolute",
+        "right": 16,
+        "top": 16,
+        "width": undefined,
+      }
+    }
+    testID="redibs-ucl.navigation-bar.right-items"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "flexWrap": undefined,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "overflow": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        accessibilityLabel="redibs-ucl.navigation-bar-item.0"
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="redibs-ucl.navigation-bar-item.0"
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "backgroundColor": undefined,
+              "flexBasis": "auto",
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "flexWrap": undefined,
+              "height": undefined,
+              "justifyContent": "flex-start",
+              "overflow": undefined,
+              "width": undefined,
+            }
+          }
+        >
+          <Text
+            accessibilityLabel="redibs-ucl.text"
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Mulish-Bold",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#00A87E",
+                  "textAlign": undefined,
+                  "textDecorationLine": undefined,
+                },
+              ]
+            }
+            testID="redibs-ucl.text"
+          >
+            Right1
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "height": undefined,
+            "width": 8,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<NavigationBar /> Snapshot should render only a title 1`] = `
+<View
+  accessibilityLabel="redibs-ucl.navigation-bar"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": 56,
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "flexWrap": undefined,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "overflow": undefined,
+      "width": "100%",
+    }
+  }
+  testID="redibs-ucl.navigation-bar"
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "bottom": 0,
+        "left": 0,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": 8,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "center",
+        "left": 16,
+        "position": "absolute",
+        "right": 16,
+        "top": 24,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginHorizontal": 50,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="redibs-ucl.navigation-bar.title"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 20,
+              "fontWeight": "900",
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#121212",
+              "textAlign": "center",
+              "textDecorationLine": undefined,
+            },
+          ]
+        }
+        testID="redibs-ucl.navigation-bar.title"
+      >
+        Page title
+      </Text>
+    </View>
+  </View>
+</View>
+`;

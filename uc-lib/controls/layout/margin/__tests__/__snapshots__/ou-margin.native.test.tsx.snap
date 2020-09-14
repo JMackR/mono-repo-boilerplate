@@ -1,0 +1,406 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Margin Snapshot Tests marginBottomStep renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": undefined,
+      "marginBottom": 8,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginBottomStep renders correctly over marginStep 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": 4,
+      "marginBottom": 8,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginLeftStep renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": undefined,
+      "marginBottom": undefined,
+      "marginLeft": 8,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginLeftStep renders correctly over marginStep 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": 4,
+      "marginBottom": undefined,
+      "marginLeft": 8,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginRightStep renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": undefined,
+      "marginBottom": undefined,
+      "marginLeft": undefined,
+      "marginRight": 8,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginRightStep renders correctly over marginStep 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": 4,
+      "marginBottom": undefined,
+      "marginLeft": undefined,
+      "marginRight": 8,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginStep renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": 8,
+      "marginBottom": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginTopStep renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": undefined,
+      "marginBottom": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": 8,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;
+
+exports[`Margin Snapshot Tests marginTopStep renders correctly over marginStep 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": undefined,
+      "flexBasis": "auto",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 1,
+      "height": undefined,
+      "justifyContent": "flex-start",
+      "margin": 4,
+      "marginBottom": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": 8,
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessibilityLabel="redibs-ucl.text"
+    style={
+      Array [
+        Object {
+          "fontFamily": "Mulish-Bold",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "lineHeight": 20,
+        },
+        Object {
+          "color": "#121212",
+          "textAlign": undefined,
+          "textDecorationLine": undefined,
+        },
+      ]
+    }
+    testID="redibs-ucl.text"
+  >
+    Example String
+  </Text>
+</View>
+`;

@@ -1,0 +1,609 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginButton /> Android Snapshot should render properly with default width 1`] = `
+<View
+  accessibilityLabel={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": undefined,
+      "writable": true,
+    }
+  }
+  background={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": "-Mocked TouchableNativeFeedback.Ripple",
+      "writable": true,
+    }
+  }
+  mocked="-Mocked TouchableNativeFeedback"
+  onPress={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": [Function],
+      "writable": true,
+    }
+  }
+  onPressIn={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": [Function],
+      "writable": true,
+    }
+  }
+  onPressOut={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": [Function],
+      "writable": true,
+    }
+  }
+  testID={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": undefined,
+      "writable": true,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#010101",
+        "borderColor": "#121212",
+        "borderRadius": 4,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "bottom": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "left": 1,
+          "position": "absolute",
+          "right": undefined,
+          "top": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": undefined,
+              "height": 38,
+              "width": 38,
+            },
+            Object {
+              "alignItems": "center",
+              "borderRadius": 4,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <apple.svg
+          alwaysDark="#121212"
+          alwaysLight="#FFFFFF"
+          basalt="#8A8A8A"
+          crystal="#FFFFFF"
+          crystalHover="#F7F7F7"
+          crystalPressed="#EEEEEE"
+          disabled="#FAFAFA"
+          glacialBlue="#3D98D2"
+          granite="#ABABAB"
+          larchYellow="#F4BE19"
+          larchYellowHover="#F5D624"
+          larchYellowPressed="#F3A70C"
+          limestone="#E2E2E2"
+          limestoneHover="#EEEEEE"
+          limestonePressed="#D0D0D0"
+          obsidian="#121212"
+          overlay="rgba(18,18,18,0.3)"
+          paintbrushRed="#E05666"
+          green="#00A87E"
+          greenHighlight="#DEF3EC"
+          greenHover="#43B893"
+          greenPressed="#00986A"
+          quartz="#FAFAFA"
+          tintColor="#00A87E"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "margin": 10,
+          "marginBottom": undefined,
+          "marginLeft": undefined,
+          "marginRight": undefined,
+          "marginTop": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="undefined.text"
+        style={
+          Array [
+            Object {
+              "color": "#454545",
+            },
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "lineHeight": 20,
+            },
+          ]
+        }
+        testID="undefined.text"
+      >
+        This is a login button
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<LoginButton /> Android Snapshot should render properly with enabling full width 1`] = `
+<View
+  accessibilityLabel={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": undefined,
+      "writable": true,
+    }
+  }
+  background={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": "-Mocked TouchableNativeFeedback.Ripple",
+      "writable": true,
+    }
+  }
+  mocked="-Mocked TouchableNativeFeedback"
+  onPress={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": [Function],
+      "writable": true,
+    }
+  }
+  onPressIn={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": [Function],
+      "writable": true,
+    }
+  }
+  onPressOut={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": [Function],
+      "writable": true,
+    }
+  }
+  testID={
+    Object {
+      "configurable": true,
+      "enumerable": true,
+      "value": undefined,
+      "writable": true,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#010101",
+        "borderColor": "#121212",
+        "borderRadius": 4,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "bottom": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "left": 1,
+          "position": "absolute",
+          "right": undefined,
+          "top": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": undefined,
+              "height": 38,
+              "width": 38,
+            },
+            Object {
+              "alignItems": "center",
+              "borderRadius": 4,
+              "justifyContent": "center",
+            },
+          ]
+        }
+      >
+        <apple.svg
+          alwaysDark="#121212"
+          alwaysLight="#FFFFFF"
+          basalt="#8A8A8A"
+          crystal="#FFFFFF"
+          crystalHover="#F7F7F7"
+          crystalPressed="#EEEEEE"
+          disabled="#FAFAFA"
+          glacialBlue="#3D98D2"
+          granite="#ABABAB"
+          larchYellow="#F4BE19"
+          larchYellowHover="#F5D624"
+          larchYellowPressed="#F3A70C"
+          limestone="#E2E2E2"
+          limestoneHover="#EEEEEE"
+          limestonePressed="#D0D0D0"
+          obsidian="#121212"
+          overlay="rgba(18,18,18,0.3)"
+          paintbrushRed="#E05666"
+          green="#00A87E"
+          greenHighlight="#DEF3EC"
+          greenHover="#43B893"
+          greenPressed="#00986A"
+          quartz="#FAFAFA"
+          tintColor="#00A87E"
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": undefined,
+          "flexBasis": "auto",
+          "flexDirection": "row",
+          "flexGrow": 0,
+          "flexShrink": 1,
+          "height": undefined,
+          "justifyContent": "flex-start",
+          "margin": 10,
+          "marginBottom": undefined,
+          "marginLeft": undefined,
+          "marginRight": undefined,
+          "marginTop": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <Text
+        accessibilityLabel="undefined.text"
+        style={
+          Array [
+            Object {
+              "color": "#454545",
+            },
+            Object {
+              "fontFamily": "Mulish-Bold",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "lineHeight": 20,
+            },
+          ]
+        }
+        testID="undefined.text"
+      >
+        This is a login button
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<LoginButton /> iOS Snapshot should render properly with default width 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "rgba(1, 1, 1, 1)",
+      "borderColor": "#121212",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": 1,
+        "position": "absolute",
+        "right": undefined,
+        "top": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": undefined,
+            "height": 38,
+            "width": 38,
+          },
+          Object {
+            "alignItems": "center",
+            "borderRadius": 4,
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <apple.svg
+        alwaysDark="#121212"
+        alwaysLight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalHover="#F7F7F7"
+        crystalPressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialBlue="#3D98D2"
+        granite="#ABABAB"
+        larchYellow="#F4BE19"
+        larchYellowHover="#F5D624"
+        larchYellowPressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestoneHover="#EEEEEE"
+        limestonePressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushRed="#E05666"
+        green="#00A87E"
+        greenHighlight="#DEF3EC"
+        greenHover="#43B893"
+        greenPressed="#00986A"
+        quartz="#FAFAFA"
+        tintColor="#00A87E"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": 10,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="undefined.text"
+      style={
+        Array [
+          Object {
+            "color": "#454545",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+        ]
+      }
+      testID="undefined.text"
+    >
+      This is a login button
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<LoginButton /> iOS Snapshot should render properly with enabling full width 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "rgba(1, 1, 1, 1)",
+      "borderColor": "#121212",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "bottom": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "left": 1,
+        "position": "absolute",
+        "right": undefined,
+        "top": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": undefined,
+            "height": 38,
+            "width": 38,
+          },
+          Object {
+            "alignItems": "center",
+            "borderRadius": 4,
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <apple.svg
+        alwaysDark="#121212"
+        alwaysLight="#FFFFFF"
+        basalt="#8A8A8A"
+        crystal="#FFFFFF"
+        crystalHover="#F7F7F7"
+        crystalPressed="#EEEEEE"
+        disabled="#FAFAFA"
+        glacialBlue="#3D98D2"
+        granite="#ABABAB"
+        larchYellow="#F4BE19"
+        larchYellowHover="#F5D624"
+        larchYellowPressed="#F3A70C"
+        limestone="#E2E2E2"
+        limestoneHover="#EEEEEE"
+        limestonePressed="#D0D0D0"
+        obsidian="#121212"
+        overlay="rgba(18,18,18,0.3)"
+        paintbrushRed="#E05666"
+        green="#00A87E"
+        greenHighlight="#DEF3EC"
+        greenHover="#43B893"
+        greenPressed="#00986A"
+        quartz="#FAFAFA"
+        tintColor="#00A87E"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "stretch",
+        "backgroundColor": undefined,
+        "flexBasis": "auto",
+        "flexDirection": "row",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "height": undefined,
+        "justifyContent": "flex-start",
+        "margin": 10,
+        "marginBottom": undefined,
+        "marginLeft": undefined,
+        "marginRight": undefined,
+        "marginTop": undefined,
+        "width": undefined,
+      }
+    }
+  >
+    <Text
+      accessibilityLabel="undefined.text"
+      style={
+        Array [
+          Object {
+            "color": "#454545",
+          },
+          Object {
+            "fontFamily": "Mulish-Bold",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 20,
+          },
+        ]
+      }
+      testID="undefined.text"
+    >
+      This is a login button
+    </Text>
+  </View>
+</View>
+`;

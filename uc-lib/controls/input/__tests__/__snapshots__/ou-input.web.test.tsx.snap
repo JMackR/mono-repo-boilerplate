@@ -1,0 +1,1836 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Snapshot Tests Default ipnut renders properly 1`] = `
+.flex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.margin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouborder {
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  overflow: hidden;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: #8A8A8A;
+}
+
+.oumargin {
+  margin: 8px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.outextentry {
+  text-align: undefined;
+  color: #121212;
+  background-color: transparent;
+  border: hidden;
+  outline: none;
+  overflow: hidden;
+  resize: none;
+  min-width: 0px;
+  min-size: 0px;
+  width: 100%;
+  text-vertical-align: top;
+  min-height: 24px;
+  max-height: 24px;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.outextentry::placeholder {
+  color: #ABABAB;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oumargin"
+  >
+    <div
+      className="oustack"
+    >
+      <div
+        className="ouborder"
+        onClick={[Function]}
+      >
+        <div
+          className="oumargin"
+        >
+          <div
+            className="oustack"
+          >
+            <div
+              className="ouflex"
+            >
+              <input
+                className="outextentry"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyPress={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Input Snapshot Tests Input with error and without svgs 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.oumargin {
+  margin: 8px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.outextentry {
+  text-align: undefined;
+  color: #121212;
+  background-color: transparent;
+  border: hidden;
+  outline: none;
+  overflow: hidden;
+  resize: none;
+  min-width: 0px;
+  min-size: 0px;
+  width: 100%;
+  text-vertical-align: top;
+  min-height: 24px;
+  max-height: 24px;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.outextentry::placeholder {
+  color: #ABABAB;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: 8px;
+  width: undefined;
+  display: block;
+}
+
+.ou {
+  display: flex;
+  position: absolute;
+  top: undefined;
+  bottom: undefined;
+  left: undefined;
+  right: 0px;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  z-index: 1;
+  height: undefined;
+  width: undefined;
+}
+
+.oredibs-uclickableopacity {
+  width: 100%;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.text-textStyle {
+  color: #00A87E;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.text-textStyle:hover {
+  cursor: pointer;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.text-textStyle {
+  color: #8A8A8A;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row-reverse;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.ouborder {
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  overflow: hidden;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: #E05666;
+}
+
+.text-textStyle {
+  color: #E05666;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oumargin"
+  >
+    <div
+      className="oustack"
+    >
+      <div
+        className="ouflex"
+      >
+        <div
+          className="text-textStyle"
+        >
+          Sample Title
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="ouborder"
+        onClick={[Function]}
+      >
+        <div
+          className="oumargin"
+        >
+          <div
+            className="oustack"
+          >
+            <div
+              className="ouflex"
+            >
+              <input
+                className="outextentry"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyPress={[Function]}
+                placeholder="Sample hint text"
+                type="password"
+              />
+              <div
+                className="ou"
+              >
+                <div
+                  className="oredibs-uclickableopacity"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="text-textStyle"
+                  >
+                    Show
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="oustack"
+      >
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Left Helper Text
+          </div>
+        </div>
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Right Helper Text
+          </div>
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="text-textStyle"
+      >
+        test
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Input Snapshot Tests input with error and SVGs 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.oumargin {
+  margin: 8px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.outextentry {
+  text-align: undefined;
+  color: #121212;
+  background-color: transparent;
+  border: hidden;
+  outline: none;
+  overflow: hidden;
+  resize: none;
+  min-width: 0px;
+  min-size: 0px;
+  width: 100%;
+  text-vertical-align: top;
+  min-height: 24px;
+  max-height: 24px;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.outextentry::placeholder {
+  color: #ABABAB;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: 8px;
+  width: undefined;
+  display: block;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.ou {
+  display: flex;
+  position: absolute;
+  top: undefined;
+  bottom: undefined;
+  left: undefined;
+  right: 0px;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  z-index: 1;
+  height: undefined;
+  width: undefined;
+}
+
+.oredibs-uclickableopacity {
+  width: 100%;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.text-textStyle {
+  color: #00A87E;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.text-textStyle:hover {
+  cursor: pointer;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.text-textStyle {
+  color: #8A8A8A;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row-reverse;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.ouborder {
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  overflow: hidden;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: #E05666;
+}
+
+.text-textStyle {
+  color: #E05666;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oumargin"
+  >
+    <div
+      className="oustack"
+    >
+      <div
+        className="ouflex"
+      >
+        <div
+          className="text-textStyle"
+        >
+          Sample Title
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="ouborder"
+        onClick={[Function]}
+      >
+        <div
+          className="oumargin"
+        >
+          <div
+            className="oustack"
+          >
+            <div
+              className="oumargin"
+            >
+              <home-fill.svg
+                alwaysdark="#121212"
+                alwayslight="#FFFFFF"
+                basalt="#8A8A8A"
+                crystal="#FFFFFF"
+                crystalhover="#F7F7F7"
+                crystalpressed="#EEEEEE"
+                disabled="#FAFAFA"
+                glacialblue="#3D98D2"
+                granite="#ABABAB"
+                larchyellow="#F4BE19"
+                larchyellowhover="#F5D624"
+                larchyellowpressed="#F3A70C"
+                limestone="#E2E2E2"
+                limestonehover="#EEEEEE"
+                limestonepressed="#D0D0D0"
+                obsidian="#121212"
+                overlay="rgba(18,18,18,0.3)"
+                paintbrushred="#E05666"
+                palousegreen="#00A87E"
+                palousegreenhighlight="#DEF3EC"
+                palousegreenhover="#43B893"
+                palousegreenpressed="#00986A"
+                quartz="#FAFAFA"
+                tintcolor="#E05666"
+              />
+            </div>
+            <div
+              className="ouflex"
+            >
+              <input
+                className="outextentry"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyPress={[Function]}
+                placeholder="Sample hint text"
+                type="password"
+              />
+              <div
+                className="ou"
+              >
+                <div
+                  className="oredibs-uclickableopacity"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="text-textStyle"
+                  >
+                    Show
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="oumargin"
+            >
+              <home-fill.svg
+                alwaysdark="#121212"
+                alwayslight="#FFFFFF"
+                basalt="#8A8A8A"
+                crystal="#FFFFFF"
+                crystalhover="#F7F7F7"
+                crystalpressed="#EEEEEE"
+                disabled="#FAFAFA"
+                glacialblue="#3D98D2"
+                granite="#ABABAB"
+                larchyellow="#F4BE19"
+                larchyellowhover="#F5D624"
+                larchyellowpressed="#F3A70C"
+                limestone="#E2E2E2"
+                limestonehover="#EEEEEE"
+                limestonepressed="#D0D0D0"
+                obsidian="#121212"
+                overlay="rgba(18,18,18,0.3)"
+                paintbrushred="#E05666"
+                palousegreen="#00A87E"
+                palousegreenhighlight="#DEF3EC"
+                palousegreenhover="#43B893"
+                palousegreenpressed="#00986A"
+                quartz="#FAFAFA"
+                tintcolor="#E05666"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="oustack"
+      >
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Left Helper Text
+          </div>
+        </div>
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Right Helper Text
+          </div>
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="text-textStyle"
+      >
+        test
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Input Snapshot Tests input with no error and loading 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouborder {
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  overflow: hidden;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: #8A8A8A;
+}
+
+.oumargin {
+  margin: 8px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.outextentry {
+  text-align: undefined;
+  color: #121212;
+  background-color: transparent;
+  border: hidden;
+  outline: none;
+  overflow: hidden;
+  resize: none;
+  min-width: 0px;
+  min-size: 0px;
+  width: 100%;
+  text-vertical-align: top;
+  min-height: 24px;
+  max-height: 24px;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.outextentry::placeholder {
+  color: #ABABAB;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: 8px;
+  width: undefined;
+  display: block;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.ou {
+  display: flex;
+  position: absolute;
+  top: undefined;
+  bottom: undefined;
+  left: undefined;
+  right: 0px;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  z-index: 1;
+  height: undefined;
+  width: undefined;
+}
+
+.oredibs-uclickableopacity {
+  width: 100%;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.text-textStyle {
+  color: #00A87E;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.text-textStyle:hover {
+  cursor: pointer;
+}
+
+.spinner-rotateAnimation-fillAnimation {
+  width: 16px;
+  height: 16px;
+  animation-name: keyframe_178e43w;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-play-state: running;
+  animation-timing-function: linear;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.text-textStyle {
+  color: #8A8A8A;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row-reverse;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oumargin"
+  >
+    <div
+      className="oustack"
+    >
+      <div
+        className="ouflex"
+      >
+        <div
+          className="text-textStyle"
+        >
+          Sample Title
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="ouborder"
+        onClick={[Function]}
+      >
+        <div
+          className="oumargin"
+        >
+          <div
+            className="oustack"
+          >
+            <div
+              className="oumargin"
+            >
+              <home-fill.svg
+                alwaysdark="#121212"
+                alwayslight="#FFFFFF"
+                basalt="#8A8A8A"
+                crystal="#FFFFFF"
+                crystalhover="#F7F7F7"
+                crystalpressed="#EEEEEE"
+                disabled="#FAFAFA"
+                glacialblue="#3D98D2"
+                granite="#ABABAB"
+                larchyellow="#F4BE19"
+                larchyellowhover="#F5D624"
+                larchyellowpressed="#F3A70C"
+                limestone="#E2E2E2"
+                limestonehover="#EEEEEE"
+                limestonepressed="#D0D0D0"
+                obsidian="#121212"
+                overlay="rgba(18,18,18,0.3)"
+                paintbrushred="#E05666"
+                palousegreen="#00A87E"
+                palousegreenhighlight="#DEF3EC"
+                palousegreenhover="#43B893"
+                palousegreenpressed="#00986A"
+                quartz="#FAFAFA"
+                tintcolor="#8A8A8A"
+              />
+            </div>
+            <div
+              className="ouflex"
+            >
+              <input
+                className="outextentry"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyPress={[Function]}
+                placeholder="Sample hint text"
+                type="password"
+              />
+              <div
+                className="ou"
+              >
+                <div
+                  className="oredibs-uclickableopacity"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="text-textStyle"
+                  >
+                    Show
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="oumargin"
+            >
+              <div>
+                <alerts-loading.svg
+                  alwaysdark="#121212"
+                  alwayslight="#FFFFFF"
+                  basalt="#8A8A8A"
+                  className="spinner-rotateAnimation-fillAnimation"
+                  crystal="#FFFFFF"
+                  crystalhover="#F7F7F7"
+                  crystalpressed="#EEEEEE"
+                  disabled="#FAFAFA"
+                  glacialblue="#3D98D2"
+                  granite="#ABABAB"
+                  larchyellow="#F4BE19"
+                  larchyellowhover="#F5D624"
+                  larchyellowpressed="#F3A70C"
+                  limestone="#E2E2E2"
+                  limestonehover="#EEEEEE"
+                  limestonepressed="#D0D0D0"
+                  obsidian="#121212"
+                  overlay="rgba(18,18,18,0.3)"
+                  paintbrushred="#E05666"
+                  palousegreen="#00A87E"
+                  palousegreenhighlight="#DEF3EC"
+                  palousegreenhover="#43B893"
+                  palousegreenpressed="#00986A"
+                  quartz="#FAFAFA"
+                  tintcolor="#00A87E"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="oustack"
+      >
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Left Helper Text
+          </div>
+        </div>
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Right Helper Text
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Input Snapshot Tests input with no error and without loading 1`] = `
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouborder {
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  overflow: hidden;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: #8A8A8A;
+}
+
+.oumargin {
+  margin: 8px;
+  margin-left: undefined;
+  margin-right: undefined;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: column;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+.outextentry {
+  text-align: undefined;
+  color: #121212;
+  background-color: transparent;
+  border: hidden;
+  outline: none;
+  overflow: hidden;
+  resize: none;
+  min-width: 0px;
+  min-size: 0px;
+  width: 100%;
+  text-vertical-align: top;
+  min-height: 24px;
+  max-height: 24px;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.outextentry::placeholder {
+  color: #ABABAB;
+}
+
+.text-textStyle {
+  color: #121212;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.root {
+  height: 8px;
+  width: undefined;
+  display: block;
+}
+
+.oumargin {
+  margin: undefined;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: undefined;
+  margin-bottom: undefined;
+  display: flex;
+  position: relative;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: undefined;
+  height: undefined;
+  max-width: undefined;
+  width: undefined;
+}
+
+.ou {
+  display: flex;
+  position: absolute;
+  top: undefined;
+  bottom: undefined;
+  left: undefined;
+  right: 0px;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  z-index: 1;
+  height: undefined;
+  width: undefined;
+}
+
+.oredibs-uclickableopacity {
+  width: 100%;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.text-textStyle {
+  color: #00A87E;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.text-textStyle:hover {
+  cursor: pointer;
+}
+
+.oustack {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background-color: undefined;
+  height: undefined;
+  width: undefined;
+  max-width: undefined;
+  overflow: undefined;
+}
+
+.text-textStyle {
+  color: #8A8A8A;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Lato, sans-serif;
+  display: inline;
+  white-space: inherit;
+  text-align: undefined;
+}
+
+.ouflex {
+  display: flex;
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-direction: row-reverse;
+  flex-wrap: undefined;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 100vw;
+  width: undefined;
+  height: undefined;
+  position: relative;
+  background-color: undefined;
+  overflow: undefined;
+}
+
+<div
+  className="ouflex"
+>
+  <div
+    className="oumargin"
+  >
+    <div
+      className="oustack"
+    >
+      <div
+        className="ouflex"
+      >
+        <div
+          className="text-textStyle"
+        >
+          Sample Title
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="ouborder"
+        onClick={[Function]}
+      >
+        <div
+          className="oumargin"
+        >
+          <div
+            className="oustack"
+          >
+            <div
+              className="oumargin"
+            >
+              <home-fill.svg
+                alwaysdark="#121212"
+                alwayslight="#FFFFFF"
+                basalt="#8A8A8A"
+                crystal="#FFFFFF"
+                crystalhover="#F7F7F7"
+                crystalpressed="#EEEEEE"
+                disabled="#FAFAFA"
+                glacialblue="#3D98D2"
+                granite="#ABABAB"
+                larchyellow="#F4BE19"
+                larchyellowhover="#F5D624"
+                larchyellowpressed="#F3A70C"
+                limestone="#E2E2E2"
+                limestonehover="#EEEEEE"
+                limestonepressed="#D0D0D0"
+                obsidian="#121212"
+                overlay="rgba(18,18,18,0.3)"
+                paintbrushred="#E05666"
+                palousegreen="#00A87E"
+                palousegreenhighlight="#DEF3EC"
+                palousegreenhover="#43B893"
+                palousegreenpressed="#00986A"
+                quartz="#FAFAFA"
+                tintcolor="#8A8A8A"
+              />
+            </div>
+            <div
+              className="ouflex"
+            >
+              <input
+                className="outextentry"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyPress={[Function]}
+                placeholder="Sample hint text"
+                type="password"
+              />
+              <div
+                className="ou"
+              >
+                <div
+                  className="oredibs-uclickableopacity"
+                  onClick={[Function]}
+                >
+                  <div
+                    className="text-textStyle"
+                  >
+                    Show
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="oumargin"
+            >
+              <home-fill.svg
+                alwaysdark="#121212"
+                alwayslight="#FFFFFF"
+                basalt="#8A8A8A"
+                crystal="#FFFFFF"
+                crystalhover="#F7F7F7"
+                crystalpressed="#EEEEEE"
+                disabled="#FAFAFA"
+                glacialblue="#3D98D2"
+                granite="#ABABAB"
+                larchyellow="#F4BE19"
+                larchyellowhover="#F5D624"
+                larchyellowpressed="#F3A70C"
+                limestone="#E2E2E2"
+                limestonehover="#EEEEEE"
+                limestonepressed="#D0D0D0"
+                obsidian="#121212"
+                overlay="rgba(18,18,18,0.3)"
+                paintbrushred="#E05666"
+                palousegreen="#00A87E"
+                palousegreenhighlight="#DEF3EC"
+                palousegreenhover="#43B893"
+                palousegreenpressed="#00986A"
+                quartz="#FAFAFA"
+                tintcolor="#8A8A8A"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="root"
+      />
+      <div
+        className="oustack"
+      >
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Left Helper Text
+          </div>
+        </div>
+        <div
+          className="ouflex"
+        >
+          <div
+            className="text-textStyle"
+          >
+            Right Helper Text
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

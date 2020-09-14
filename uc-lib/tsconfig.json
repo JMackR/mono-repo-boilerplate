@@ -1,0 +1,18 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "lib",
+    "rootDir": "../",
+    "jsx": "react-native",
+    "composite": true,
+    "declarationMap": true,
+    "isolatedModules": true,
+    "sourceMap": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "typeRoots": ["../node_modules/@types", "./types"]
+  },
+  "include": ["./"],
+  "exclude": ["node_modules", "babel.config.js", "metro.config.js", "jest.config.js", "types"]
+}

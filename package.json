@@ -1,0 +1,127 @@
+{
+  "name": "redibs-client",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "redibs-app",
+      "redibs-shared",
+      "redibs-web",
+      "redibs-ucl"
+    ]
+  },
+  "scripts": {
+    "start:web": "webpack-dev-server --config web/webpack/webpack.dev.js",
+    "redibs-app": "yarn workspace mobile",
+    "redibs-shared": "yarn workspace shared-lib",
+    "redibs-web": "yarn workspace web",
+    "android": "yarn mobile android",
+    "ios": "yarn mobile ios",
+    "web": "yarn web dev",
+    "web:local": "yarn web dev:local",
+    "web:deploy": "yarn redibs-clean && yarn redibs-install && yarn redibs-web build:release && web/scripts/deploy.sh",
+    "web:deploy:temp": "../gradlew :setupSkaffoldEnv; skaffold delete -n redibs-client; skaffold run -n redibs-client --cache-artifacts=false",
+    "test": "yarn workspaces run --silent test",
+    "cli-install": "yarn && yarn mobile pod",
+    "lint": "tslint '**/*.{ts,tsx}' -e '**/node_modules/**' -e '**/*.test.{ts,tsx}'",
+    "lint:fix": "yarn lint --fix",
+    "lint:report": "yarn lint --force --format json --out test-reports/tslint-report.json",
+    "rn-clean": "rm -rf ./node_modules */node_modules/ ./build mobile/ios/Pods/ && yarn mobile clean",
+    "rn-install": "yarn && yarn mobile pod"
+  },
+  "dependencies": {
+    "@types/pluralize": "0.0.29",
+    "moment": "2.24.0",
+    "pluralize": "8.0.0",
+    "react-switch": "5.0.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.27.0",
+    "@typescript-eslint/parser": "^2.27.0",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "1.19.1",
+    "tslint": "6.0.0",
+    "tslint-react": "4.2.0",
+    "typescript": "3.7.5"
+  },
+  "prettier": {
+    "printWidth": 125,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "all"
+  },
+  "eslintConfig": {
+    "parser": "@typescript-eslint/parser",
+    "extends": [
+      "prettier",
+      "plugin:@typescript-eslint/recommended",
+      "plugin:react/recommended",
+      "standard"
+    ],
+    "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true
+      },
+      "project": "./tsconfig.json"
+    },
+    "plugins": [
+      "@typescript-eslint",
+      "react",
+      "react-hooks"
+    ],
+    "settings": {
+      "react": {
+        "pragma": "React",
+        "version": "detect"
+      }
+    },
+    "globals": {
+      "__DEV__": false,
+      "jasmine": false,
+      "beforeAll": false,
+      "afterAll": false,
+      "beforeEach": false,
+      "afterEach": false,
+      "test": false,
+      "expect": false,
+      "describe": false,
+      "jest": false,
+      "it": false
+    },
+    "rules": {
+      "comma-dangle": 0,
+      "no-unused-vars": 0,
+      "no-undef": 0,
+      "quotes": 0,
+      "generator-star-spacing": 0,
+      "react/no-unescaped-entities": 0,
+      "react/prop-types": 0,
+      "react/display-name": 0,
+      "space-before-function-paren": 0,
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn",
+      "@typescript-eslint/explicit-function-return-type": "off"
+    },
+    "overrides": [
+      {
+        "files": [
+          "*.test.ts",
+          "*.test.tsx",
+          "*.story.tsx",
+          "debug*.tsx"
+        ],
+        "rules": {
+          "@typescript-eslint/no-non-null-assertion": 0
+        }
+      }
+    ]
+  }
+}

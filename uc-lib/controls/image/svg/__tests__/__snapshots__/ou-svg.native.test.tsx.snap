@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SVG Snapshot Tests SVG renders localSVG  1`] = `
+<tru-ycircle-fill.svg
+  alwaysDark="#121212"
+  alwaysLight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalHover="#F7F7F7"
+  crystalPressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialBlue="#3D98D2"
+  granite="#ABABAB"
+  larchYellow="#F4BE19"
+  larchYellowHover="#F5D624"
+  larchYellowPressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestoneHover="#EEEEEE"
+  limestonePressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushRed="#E05666"
+  green="#00A87E"
+  greenHighlight="#DEF3EC"
+  greenHover="#43B893"
+  greenPressed="#00986A"
+  quartz="#FAFAFA"
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders localSVG with overwritten width/height 1`] = `
+<tru-ycircle-fill.svg
+  alwaysDark="#121212"
+  alwaysLight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalHover="#F7F7F7"
+  crystalPressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialBlue="#3D98D2"
+  granite="#ABABAB"
+  height={120}
+  larchYellow="#F4BE19"
+  larchYellowHover="#F5D624"
+  larchYellowPressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestoneHover="#EEEEEE"
+  limestonePressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushRed="#E05666"
+  green="#00A87E"
+  greenHighlight="#DEF3EC"
+  greenHover="#43B893"
+  greenPressed="#00986A"
+  quartz="#FAFAFA"
+  width={120}
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders remoteSVG 1`] = `
+<Text>
+  SVG:
+  https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/compass.svg 120 120
+</Text>
+`;
+
+exports[`SVG Snapshot Tests SVG renders tintable localSVG with error tint 1`] = `
+<home-fill.svg
+  alwaysDark="#121212"
+  alwaysLight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalHover="#F7F7F7"
+  crystalPressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialBlue="#3D98D2"
+  granite="#ABABAB"
+  larchYellow="#F4BE19"
+  larchYellowHover="#F5D624"
+  larchYellowPressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestoneHover="#EEEEEE"
+  limestonePressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushRed="#E05666"
+  green="#00A87E"
+  greenHighlight="#DEF3EC"
+  greenHover="#43B893"
+  greenPressed="#00986A"
+  quartz="#FAFAFA"
+  tintColor="#E05666"
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders tintable localSVG with link tint 1`] = `
+<home-fill.svg
+  alwaysDark="#121212"
+  alwaysLight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalHover="#F7F7F7"
+  crystalPressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialBlue="#3D98D2"
+  granite="#ABABAB"
+  larchYellow="#F4BE19"
+  larchYellowHover="#F5D624"
+  larchYellowPressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestoneHover="#EEEEEE"
+  limestonePressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushRed="#E05666"
+  green="#00A87E"
+  greenHighlight="#DEF3EC"
+  greenHover="#43B893"
+  greenPressed="#00986A"
+  quartz="#FAFAFA"
+  tintColor="#00A87E"
+/>
+`;
+
+exports[`SVG Snapshot Tests SVG renders tintable localSVG without tint 1`] = `
+<home-fill.svg
+  alwaysDark="#121212"
+  alwaysLight="#FFFFFF"
+  basalt="#8A8A8A"
+  crystal="#FFFFFF"
+  crystalHover="#F7F7F7"
+  crystalPressed="#EEEEEE"
+  disabled="#FAFAFA"
+  glacialBlue="#3D98D2"
+  granite="#ABABAB"
+  larchYellow="#F4BE19"
+  larchYellowHover="#F5D624"
+  larchYellowPressed="#F3A70C"
+  limestone="#E2E2E2"
+  limestoneHover="#EEEEEE"
+  limestonePressed="#D0D0D0"
+  obsidian="#121212"
+  overlay="rgba(18,18,18,0.3)"
+  paintbrushRed="#E05666"
+  green="#00A87E"
+  greenHighlight="#DEF3EC"
+  greenHover="#43B893"
+  greenPressed="#00986A"
+  quartz="#FAFAFA"
+/>
+`;

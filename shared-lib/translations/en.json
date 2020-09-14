@@ -1,0 +1,1469 @@
+{
+  "common-actions": {
+    "hello": "HELLO BOB",
+    "cancel": "Cancel",
+    "next": "Next",
+    "done": "Done",
+    "close": "Close",
+    "add": "Add",
+    "edit": "Edit",
+    "yes": "Yes",
+    "no": "No",
+    "clear": "Clear",
+    "save": "Save",
+    "delete": "Delete",
+    "skip": "Skip",
+    "share": "Share",
+    "report": "Report",
+    "copy-to-clipboard": "Copy to clipboard",
+    "got-it": "Got it",
+    "remove": "Remove",
+    "learn-more-button": "Learn more",
+    "view-all": "View all",
+    "apply": "Apply",
+    "reset": "Reset",
+    "try-again": "Try again",
+    "retry": "Retry",
+    "how-it-works": "How it works",
+    "view-more-items": "View more items",
+    "show-more": "Show more",
+    "show-less": "Show less",
+    "show": "Show",
+    "hide": "Hide",
+    "continue": "Continue",
+    "verify": "Verify",
+    "confirm": "Confirm",
+    "call": "Call",
+    "preview": "Preview"
+  },
+
+  "dashboard-stack": {
+    "dashboard-screen": {
+      "header": "Dashboard",
+      "dashboard-almost-ready": "Your dashboard is almost ready.",
+      "dashboard-modal-message": "To power your dashboard, you’ll need to import your contacts in your Redibs Portfolio.",
+      "goto-portolio": "GO TO MY PORTFOLIO"
+    }
+  },
+  "portfolio-stack": {
+    "portfolio-screen": {
+      "header": "Portfolio",
+      "imported-properties": "properties imported! ",
+      "add-details": "Add details to build out your portfolio",
+      "all-leads": "All Leads",
+      "title-update": "Update",
+      "update": "UPDATE",
+      "new-leads": "New Leads",
+      "status": "STATUS",
+      "name": "NAME",
+      "address": "ADDRESS",
+      "choseYou": "CHOSE YOU",
+      "qualifying": "QUALIFYING",
+      "pitching": "PITCHING",
+      "contract": "CONTRACT",
+      "signed": "SIGNED",
+      "funded": "FUNDED",
+      "potential": "POTENTIAL",
+      "declined": "DECLINED",
+      "offer": "OFFER",
+      "value": "VALUE",
+      "phone": "PHONE",
+      "property-address": "PROPERTY ADDRESS",
+      "email": "EMAIL",
+      "value": "VALUE",
+      "gender": "GENDER",
+      "age": "AGE",
+      "other-properties": "OTHER PROPERTIES",
+      "notes": "NOTES"
+    }
+  },
+  "todos-stack": {
+    "todos-screen": {
+      "header": "To-Dos"
+    }
+  },
+  "resources-stack": {
+    "resources-screen": {
+      "header": "Resources"
+    }
+  },
+  "profile-stack": {
+    "profile-screen": {
+      "header": "Profile"
+    }
+  },
+  "common-errors": {
+    "server-error": {
+      "title": "Sorry, something went wrong",
+      "subtitle": "We're working on a solution and will fix this as soon as possible.",
+      "button-title": "Try again"
+    },
+    "not-found": {
+      "title": "Sorry, this page does not exist"
+    },
+    "validation": {
+      "required": "This field is required",
+      "invalid-email": "Please enter valid email.",
+      "invalid-phonenumber": "Please enter valid phone number.",
+      "invalid-zip-code": "Please enter valid zip code.",
+      "invalid-ssn": "Please enter SSN.",
+      "numbers-only": "Only numbers are allowed.",
+      "invalid-vanity-url": "Special characters not allowed. Only letters and numbers.",
+      "insecure-password": "Short passwords are insecure. Please try a longer password that combines letters, numbers, and symbols.",
+      "length-prefix": "Please enter",
+      "length-more": "or more characters.",
+      "length-fewer": "or fewer characters."
+    }
+  },
+  "common-labels": {
+    "free-shipping": "Free shipping!",
+    "promoted": "Promoted",
+    "ad": "Ad",
+    "currency": "$",
+    "sold": "Sold",
+    "suffix-default-label": " (default)"
+  },
+
+  "help-center-webview-title": "Help Center",
+  "account-stack": {
+    "authenticate-error": "Couldn't authenticate. Please login!",
+    "go-to-login": "Go to login",
+    "sign-out": "Sign out",
+    "welcome-msg": "Welcome {{welcome_name}}",
+    "account-screen": {
+      "account-title": "Account",
+      "rating-count-formatted": "({{ratings}})",
+      "truyou-member": "TruYou Member",
+      "invite-friends": "Invite friends and get $5",
+      "section-label": {
+        "saves": "Saves",
+        "transactions": "Transactions",
+        "account": "Account",
+        "help": "Help"
+      },
+      "saved-items": "Saved items",
+      "search-alerts": "Search alerts",
+      "saved-search-alerts": "Saved search alerts",
+      "purchases-and-sales": "Purchases & Sales",
+      "payments-and-deposit-methods": "Payment & Deposit methods",
+      "shipping-addresses": "Shipping addresses",
+      "account-settings": "Account settings",
+      "public-profile": "Public profile",
+      "promote-plus": "Promote Plus",
+      "custom-profile-link": "Custom profile link",
+      "help-center": "Help center",
+      "community-actions": "Community actions",
+      "view-public-profile": "View public profile",
+      "reputation-help": "About reputation"
+    },
+    "search-alert-screen": {
+      "title": "Saved Search Alerts",
+      "empty-placeholder-text": "No saved searches",
+      "empty-placeholder-description": "Use the bell icon in the search bar to save searches here.",
+      "delete-search-alert": {
+        "title": "Delete saved search alert",
+        "body": "Are you sure you want to delete this saved search alert? This can't be undone."
+      }
+    },
+    "change-password": {
+      "title": "Change password",
+      "old-password": "Current password",
+      "new-password": "New password",
+      "new-password-confirm": "Re-enter new password",
+      "not-match-error": "You must type the same password each time.",
+      "incorrect-current-password-error": "Password incorrect. Try again or click 'Forgot your password' to reset it.",
+      "submit": "Submit",
+      "success": "Got it!",
+      "success-dialog-title": "Success!",
+      "success-dialog-body": "Your password has been changed."
+    },
+    "vanity-url-screen": {
+      "title-share-vanity-url": "Profile Link",
+      "title-create-vanity-url": "Create Your Profile Link",
+      "share-url-action-title": "Profile link",
+      "share-screen-message": "Share your link",
+      "share-screen-message-subtext": "Let customers and friends know where to find your items.",
+      "share-button-title": "Share your link",
+      "url-prefix": "redibs.com/profile/",
+      "error-msg-name-unavailable": "Name unavailable",
+      "error-msg-invalid-input": "Please input a valid name.",
+      "create-url-input-title": "Enter your custom shareable link",
+      "create-url-input-hint": "Your profile name",
+      "create-url-button-title": "Create custom link",
+      "create-url-modal-are-you-sure": "Are you sure?",
+      "create-url-modal-warning": "Once your create your custom link, you cannot change it later.",
+      "create-url-terms-of-service-info": "Please do not use special characters, offensive language, or copyrighted content that you do not own. We reserve the right to remove or modify the custom profile link at any time. By continuing, you accept the Redibs "
+    },
+    "verify-email": {
+      "title": "Verify Email",
+      "email-address": "Email address",
+      "email": "Email",
+      "header": "Enter your email address",
+      "subheader": "We will send you a confirmation link.",
+      "button": "Send Confirmation",
+      "confirmation-sent-title": "Email confirmation sent",
+      "confirmation-sent-body": "Check your email and click on the verification link to reflect this change to your account."
+    },
+    "update-name": {
+      "title": "Enter Name",
+      "name": "Name"
+    },
+    "verify-phone": {
+      "title": "Secure Your Account",
+      "phone-verification": "Phone verification",
+      "code-header": "Code sent",
+      "verify-subheader": "Add a phone number to further secure your account. We’ll text you a code. ",
+      "code-subheader": "We sent a code to the phone number ending in '{{last_four_digits}}'. Please enter the code:",
+      "verify-input-description": "Your number will not be shared with others. Message and data rates may apply.",
+      "mobile": "Enter mobile number",
+      "code": "Code",
+      "resend": "Resend",
+      "what-is-this": "What is this?",
+      "phone-hint": "(###) ###-####",
+      "send-code": "Send code",
+      "verify": "Verify",
+      "dont-have-phone": "I don't have this phone with me",
+      "prompt-body": "Add a phone number to further secure your account. We'll text you a code."
+    },
+    "account-multifactor": {
+      "verify-another-way": "Verify another way",
+      "verify-another-way-body": "Don’t have your current account phone with you? Verify your account in two steps:",
+      "verify-another-way-list-1": "1. Enter current account phone number",
+      "verify-another-way-list-2": "2. Enter code we email you",
+      "account-phone-number": "Account phone number",
+      "account-phone-number-body": "Enter the phone number that is currently on your account. ",
+      "account-phone-number-learn-more": "Learn more",
+      "mobile-number": "Mobile number",
+      "email-me-the-code": "Email me the code",
+      "enter-email-code": "Enter code from email",
+      "enter-email-code-error-body": "We sent a code to your email. Please enter the code:",
+      "enter-email-code-body": "We sent a code to {{obfuscatedEmail}}. Please enter the code:",
+      "code": "Code"
+    },
+    "verification-banner": {
+      "learn-how-rep-improves-your-profile": "Learn how reputation improves your profile",
+      "connect-facebook": "Connect\nFacebook",
+      "facebook-connected": "Facebook\nConnected",
+      "join-truyou": "Join\nTruYou",
+      "truyou-verified": "TruYou\nVerified",
+      "truyou-processing": "TruYou\nPending",
+      "phone-verified": "Phone\nVerified",
+      "verify-phone": "Verify\nPhone",
+      "image-added": "Image\nAdded",
+      "add-image": "Add\nImage",
+      "verify-email": "Verify\nEmail",
+      "email-verified": "Email\nVerified",
+      "you-did-it": "You did it! Thanks for verifying!",
+      "verify-account-to-build-rep": "Verify your account to build reputation."
+    },
+    "invite-friends": {
+      "title": "Invite friends",
+      "share-title": "Share your link",
+      "how-invites-work": "How invites work"
+    },
+    "profile-image-select": {
+      "title": "Change Photo",
+      "change-profile-photo": "Change profile photo",
+      "use-photo": "Use photo",
+      "take-photo": "Take photo",
+      "select-photo": "Select photo"
+    },
+    "settings-screen": {
+      "title": "Settings",
+      "section-label": {
+        "theme": "Color Theme",
+        "account": "Account",
+        "notifications": "Notifications",
+        "info": "Info",
+        "developer": "Developer"
+      },
+      "add": "Add",
+      "edit": "Edit",
+      "phone": "Phone",
+      "password": "Password",
+      "facebook": "Facebook",
+      "facebook-connected": "Facebook connected",
+      "push": "Push",
+      "name": "Name",
+      "email": "Email",
+      "truyou": "TruYou",
+      "truyou-verified": "TruYou Verified",
+      "truyou-processing": "TruYou Processing",
+      "about-redibs": "About Redibs",
+      "log-out": "Log out",
+      "verify": "Verify",
+      "match-system-theme": "Device setting",
+      "phone-number": "Phone number",
+      "customize-theme": "Customize current theme",
+      "editing-will-require-verification": "Editing will require verification",
+      "get-my-location": "Get my location",
+      "set-display-location": "Set display location",
+      "zipcode": "Zip code",
+      "or": "Or",
+      "location": "Location",
+      "newsletter": "Newsletter",
+      "save-changes": "Save changes",
+      "log-out-dialog-title": "Log out?",
+      "log-out-dialog-body": "Are you sure you want to log out?",
+      "server": "Server: {{server}}"
+    },
+    "notification-preferences": {
+      "push": "Push Notifications",
+      "email": "Email Notifications",
+      "save": "Save"
+    },
+    "server-setting": {
+      "title": "Server",
+      "development": "Development",
+      "environment": "Environment",
+      "integration": "Integration",
+      "staging": "Staging",
+      "warning-title": "Confirm?",
+      "warning-message": "Changing the server will log you out and restart the app."
+    }
+  },
+
+  "facebook-login-button": "Continue with Facebook",
+  "google-login-button": "Continue with Google",
+  "apple-login-button": "Continue with Apple",
+  "generic-login-error": "Login failed. Try again!",
+  "generic-login-cancel": "Login was canceled",
+  "hello": "Hello {{hello_name}}!",
+  "auth": {
+    "login-title": "Sign in to your account",
+    "login-button": "Sign in",
+    "signup-button": "Sign up",
+    "signup-title": "Create a new account",
+    "app-version": "Version {{version}}",
+    "need-help": "Need Help?",
+    "need-signup": "Don't have an account? Sign up",
+    "terms": "Terms of Service",
+    "privacy-policy": "Privacy Policy",
+    "authlanding-welcome-attribution-text-part-1": "By continuing, you agree to the Redibs",
+    "authlanding-welcome-attribution-text-part-2-tos": " Terms of Service",
+    "authlanding-welcome-attribution-text-part-3": " and ",
+    "authlanding-welcome-attribution-text-part-4-policy": "Privacy Policy",
+    "login-welcome-attribution-text-part-1": "By logging in, you agree to the Redibs",
+    "login-welcome-attribution-text-part-2-tos": " Terms of Service",
+    "login-welcome-attribution-text-part-3": " and ",
+    "login-welcome-attribution-text-part-4-policy": "Privacy Policy",
+    "signup-welcome-attribution-text-part-1": "By signing up, you agree to the Redibs",
+    "signup-welcome-attribution-text-part-2-tos": " Terms of Service",
+    "signup-welcome-attribution-text-part-3": " and ",
+    "signup-welcome-attribution-text-part-4-policy": "Privacy Policy",
+    "continue-with-google": "Continue with Google",
+    "continue-with-apple": "Continue with Apple",
+    "submit": "Submit",
+    "email": "email",
+    "name": "Name",
+    "usedEmailError": "Email is used. Please try with different one.",
+    "email-address": "Email address",
+    "email-address-hint": "Ex. jane@agent.com",
+    "password": "Password",
+    "username-password-error": "Your email and/or password do not match.",
+    "logout": "Logout",
+    "signup-or-login": "Log in / Sign up",
+    "or-use-your-email-address": "Or use your email address",
+    "forgot-your-password": "Forgot your password?",
+    "already-have-account": "Already have an account? Log in",
+    "already-have-account-error": "Email already registered",
+    "already-have-account-error-body": "The email address you entered is already registered with an account. Please login to continue with this email.",
+    "cancel": "Cancel",
+    "reset-password": {
+      "thanks": "Thanks!",
+      "thanks-note": "Check your email to find a set of password reset instructions.",
+      "title": "Reset Password",
+      "send": "Send",
+      "dialog-title": "Check your email",
+      "dialog-content": "We have emailed you your login info. Please check your spam folder if you do not see an email.",
+      "resend": "Resend",
+      "got-it": "Got it",
+      "success": "Success",
+      "success-message": "Your password has been changed.",
+      "reset-password-note": "Enter the email address associated with your account and we'll send you instructions to reset your password.",
+      "remember": "Nevermind, I remember now!"
+    },
+    "multi-factor": {
+      "verify-your-account": "Verify Your Account",
+      "we-will-send-email": "If the phone number matches with the number on your account, we’ll send a code to your email.",
+      "enter-mobile-number": "Enter mobile number",
+      "email-me-the-code": "Email me the code"
+    }
+  },
+  "tab-navigator": {
+    "dashboard": "Dashboard",
+    "portfolio": "Portfolio",
+    "todos": "To-Dos",
+    "resource": "Resources",
+    "profile": "Profile"
+  },
+  "app-upgrade": {
+    "modal-pill-name": "New",
+    "modal-title": "Download the new Redibs app",
+    "modal-subtitle": "Our brand new app has improvements to make your buying and selling experience even better. Update your Redibs app now!",
+    "update-app": "Update app",
+    "screen-title": "App update required",
+    "screen-subtitle1": "Please update the Redibs app to continue.",
+    "screen-subtitle2": "Our brand new app makes buying and selling even better, with new features you’ll love."
+  },
+  "search-stack": {
+    "nearby": "Nearby",
+    "all-categories": "All Categories",
+    "categories": "Categories",
+    "category": "Category",
+    "filters": "Filters",
+    "recent-searches": "Recent searches",
+    "recommended-items": "Recommended items",
+    "hint": {
+      "search": "Search...",
+      "search-in": "Search in"
+    },
+    "search-suggestion": {
+      "see-all-results-for": "See all results for",
+      "search-instead-for": "Search instead for ",
+      "in": " in "
+    },
+    "filter": "Filters",
+    "sort": "Sort",
+    "price-range": "Price range",
+    "min": "Minimum",
+    "max": "Maximum",
+    "min-is-greater-than-max-error": "The maximum must be greater or equal to the minimum.",
+    "min-must-be-above": "Min must be above ",
+    "max-must-be-below": "Max must be below ",
+    "min-is-greater-than-max-message": "Please include a minimum year that is lower than the maximum year.",
+    "invalid-year": "Please enter a year between 1936 and 2021",
+    "to": "to",
+    "location": "Location",
+    "or": "Or",
+    "apply": "Apply",
+    "see": "See",
+    "see-listings": "See listings",
+    "clear": "Clear",
+    "clear-filters": "Clear all filters",
+    "shipping": "Shipping",
+    "make": "Make",
+    "year": "Year",
+    "mileage": "Mileage",
+    "transmission": "Transmission",
+    "drivetrain": "Drivetrain",
+    "mpg": "MPG",
+    "delivery_method": "Delivery Method",
+    "any": "Any",
+    "local_pickup": "Local pickup only",
+    "nationwide_shipping": "Nationwide shipping only",
+    "nationwide_shipping_restriction": "Shipping to continental 48 states only.",
+    "zip_code": "Zip code",
+    "distance": "Distance",
+    "see_listings": "See listings",
+    "condition": "Condition",
+    "radius": {
+      "5": "5 miles",
+      "10": "10 miles",
+      "20": "20 miles",
+      "30": "30 miles",
+      "50": "Maximum"
+    },
+    "conditions": {
+      "new": "New",
+      "refurbished": "Reconditioned/Certified",
+      "open_box": "Open box (never used)",
+      "used": "Used (normal wear)",
+      "for_parts": "For parts",
+      "other": "Other (see description)",
+      "cars-and-trucks": {
+        "new": "New",
+        "refurbished": "Excellent",
+        "open_box": "Very Good",
+        "used": "Good",
+        "for_parts": "Fair",
+        "other": "For parts"
+      }
+    }
+  },
+  "portfolio": {
+    "imported-properties": "properties imported!",
+    "add-details": "Add details to build out your portfolio"
+  },
+  "inbox-screen": {
+    "inbox": "Inbox",
+    "messages": "Messages",
+    "empty-alerts-title": "You have no messages",
+    "empty-alerts-subtitle": "When people contact you about your items on Redibs, you’ll see their messages here.",
+    "empty-notifications-title": "You have no notifications",
+    "empty-notifications-subtitle": "When Redibs sends info about activity or opportunities, you’ll get the notifications here.",
+    "notifications": "Notifications",
+    "delete": "Delete",
+    "view-all-messages": "View all messages",
+    "view-all-notifications": "View all notifications",
+    "ad-tooltip": "Ads are shown based on your browsing activity."
+  },
+  "discussion-screen": {
+    "title": "Message",
+    "seen": "Seen",
+    "first-message-web-title": "Send a message",
+    "first-message-write-your-own": "Write your own",
+    "first-message-instruction": "Tap a message or write your own:",
+    "first-message-new-message": "New message",
+    "first-message-help-text": "Type your message here...",
+    "first-message-send": "Send",
+    "first-message-empty-error-title": "Enter a message",
+    "first-message-empty-error-message": "Sorry, we can't send an empty message",
+    "report-user-title": "Report user",
+    "help-title": "Help",
+    "autos-dealer-i-want-a-faster-response": "I want a faster response",
+    "autos-dealer-include-my-info": "Include my information",
+    "phone-number": "Phone number",
+    "call-autos-dealer-button": "Call for quick answers",
+    "send": "Send",
+    "delievered": "Delivered",
+    "header-make-offer": "Make offer",
+    "header-buy-now": "Buy Now",
+    "header-ship-by": "Ship by {{shipByDate}}",
+    "header-ships-for": "Ships for ${{shippingPrice}}",
+    "message-input-hint": "Message...",
+    "tooltip-autos-ready-to-buy-tooltip": "The Redibs platform AI collects and analyzes up to 40 different data points on every shopper on the platform. This data doesn't just identify a shopper that is ready to buy a vehicle but a shopper that is ready to buy one of your vehicles."
+  },
+  "discussion-image-picker": {
+    "send-error-title": "Unable to send photos",
+    "send-error-body": "Sorry, we were not able to send any of your selected photos. Please try again."
+  },
+  "report": {
+    "note-label": "Add a note (optional)",
+    "note-label-non-optional": "Add a note"
+  },
+  "report-user-screen": {
+    "title": "Report User",
+    "cancel": "Cancel",
+    "selected": "You selected: ",
+    "why": "Why do you want to report this user?",
+    "block-user": "Block this user?",
+    "blocked-user": "You have blocked this user",
+    "block-user-note": "You won’t be able to send each other messages or offers.",
+    "note": "Additional note:",
+    "learn-more": "Learn more",
+    "submit": "Submit report",
+    "other": "Other",
+    "done": "Done",
+    "success-header": "Report successfully submitted",
+    "success-message": "We'll look into this and follow up with you if we need more info."
+  },
+  "report-item-screen": {
+    "title": "Report Item",
+    "cancel": "Cancel",
+    "sold-by": "Sold by",
+    "selected": "You selected: ",
+    "why": "Why do you want to report this item?",
+    "note": "Additional note:",
+    "learn-more": "Learn more",
+    "submit": "Submit report",
+    "other": "None of the above",
+    "done": "Done",
+    "success-header": "Report successfully submitted",
+    "success-message": "We'll look into this and follow up with you if we need more info."
+  },
+  "car-buyer-profile": {
+    "title": "Your info",
+    "name": "Name",
+    "get-faster-response": "Get a faster response",
+    "respond-faster-text": "Our verified dealers are likely to respond faster if you provide contact information.",
+    "send-to-dealer": "Save and send to dealer",
+    "save": "Save"
+  },
+  "placeholders": {
+    "home": "Home placeholder",
+    "inbox": "Inbox placeholder",
+    "navigator": "Navigator placeholder",
+    "post": "Post placeholder",
+    "selling": "Selling placeholder"
+  },
+  "location-picker": {
+    "or": "Or",
+    "page-name": "Set Location",
+    "where-are-you-searching": "Where are you searching?",
+    "where-are-you-posting": "Where is your item located?",
+    "what-is-your-location": "What is your location?",
+    "get-my-location": "Get my location",
+    "zipcode-placeholder": "Enter zip code",
+    "zipcode-title": "Zip Code",
+    "save-location": "Apply",
+    "zipcode-required": "Please enter a zipcode",
+    "invalid-zipcode": "Please enter a valid US zip code.",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "location-error-title": "Location error",
+    "browser-permissions-denied-modal": {
+      "cant-find-location": "We can't find your location",
+      "part-1": "First, try refreshing the page and tapping the location again.",
+      "part-2": "Make sure you click “",
+      "part-3": "Allow",
+      "part-4": "” or “",
+      "part-5": "Grant Permissions",
+      "part-6": "” if your browser asks for your location. You can always enter a zip code on the location screen."
+    }
+  },
+  "permissions": {
+    "affirm": "Enable",
+    "reject": "Not now",
+    "location_primer_title": "Turn on Location services",
+    "location_primer_prompt": "For the best experience, turn on location services. Turn on now?",
+    "location_primer_prompt_restriced": "To use your location, the phone administrator needs to enable location services in Settings > General > Restrictions > Location Services.",
+    "search_location_deny_title": "Are you sure?",
+    "search_location_deny_prompt": "Redibs needs your location to display items nearby.",
+    "search_location_never_ask_again_title": "You Denied Location Permission",
+    "search_location_never_ask_again_prompt": "To see items nearby, Redibs needs your location. Please turn on location access in your settings.",
+    "post_location_deny_title": "Are you sure?",
+    "post_location_deny_prompt": "Redibs needs you location to post your item locally.",
+    "post_location_never_ask_again_title": "You Denied Location Permission",
+    "post_location_never_ask_again_prompt": "To post your item locally, Redibs needs your location. Please turn on location access in your settings.",
+    "meetup_location_deny_title": "Please Enable Location Services",
+    "meetup_location_deny_prompt": "Location access is required to use this feature. Would you like to enable it now?",
+    "meetup_location_never_ask_again_title": "Please Enable Location Services",
+    "meetup_location_never_ask_again_prompt": "Location access is required to use this feature. Please turn on location access in your settings.",
+    "user_location_deny_title": "Are you sure?",
+    "user_location_deny_prompt": "Location access is required to get your current location. Would you like to enable it now?",
+    "user_location_never_ask_again_title": "You Denied Location Permission",
+    "user_location_never_ask_again_prompt": "Location access is required to get your current location. Please turn on location access in your settings.",
+    "camera_title": "Camera",
+    "camera_prompt": "Please enable access to your Camera to take photos!",
+    "photo_gallery_title": "Photos",
+    "photo_gallery_prompt": "Please enable access to your Photo Library to add photos!",
+    "photo_gallery_deny_title": "Are you sure?",
+    "photo_gallery_deny_prompt": "Redibs needs to access your external storage to select a photo.",
+    "photo_gallery_never_ask_again_title": "You Denied Read External Storage Permission",
+    "photo_gallery_never_ask_again_prompt": "To select a photo, Redibs needs to access your external storage.\n Please enable storage in your settings.",
+    "camera_primer_title": "Are you sure?",
+    "camera_primer_message": "Redibs needs to access your camera to take a photo.",
+    "camera_deny_title": "Are you sure?",
+    "camera_deny_prompt": "Redibs needs to access your camera to take a photo.",
+    "camera_never_ask_again_title": "You Denied Camera Permission",
+    "camera_never_ask_again_message": "To take a photo, Redibs needs to access your camera.\n Please turn on camera in your settings.",
+    "external_storage_primer_title": "Storage",
+    "external_storage_primer_prompt": "Redibs needs to access your external storage to store a photo.",
+    "external_storage_deny_title": "Are you sure?",
+    "external_storage_deny_prompt": "Redibs needs to access your external storage to store a photo.",
+    "external_storage_never_ask_again_title": "You Denied Read External Storage Permission",
+    "external_storage_never_ask_again_prompt": "To take a photo, Redibs needs to access your external storage.\n Please enable storage in your settings.",
+    "notification_deny_title": "Get messages faster",
+    "notification_deny_prompt": "Turn on push notifications so you know when you get messages from buyers and sellers. Enable now?",
+    "notification_primer_title": "Get messages faster",
+    "notification_primer_prompt": "Turn on push notifications so you know when you get messages from buyers and sellers. Enable now?",
+    "notification_never_ask_again_title": "Get messages faster",
+    "notification_never_ask_again_prompt": "Turn on push notifications so you know when you get messages from buyers and sellers. Enable now?",
+    "feature_unavailable_prompt": "This feature is currently not available. It may be disabled in your device's privacy settings or it may not be supported by this device."
+  },
+  "onboarding-flow": {
+    "photo-upload-failed-dialog": {
+      "title": "Photos didn’t load",
+      "body": "Your photos didn’t load yet. Please try again so we can fix this issue."
+    },
+    "edit-item-page-title": "Edit Item",
+    "photo-and-title-page-title": "Post an Item",
+    "step1-indicator-title": "Account",
+    "step1-header-title": "My Account",
+    "step2-indicator-title": "Agent profile",
+    "step2-header-title": "Agent profile",
+    "step3-indicator-title": "Legal Stuff",
+    "step3-header-title": "Legal Stuff",
+    "tap-to-edit": "Tap photo to edit.",
+    "photo-rearrange": "Tap and hold photo to re-arrange.",
+    "details-page-title": "Details",
+    "price-page-title": "Price",
+    "delivery-page-title-shipping-allowed": "Delivery Method",
+    "delivery-page-title": "Finish",
+    "confirmation-page-title": "Posted!",
+    "posting": "Posting",
+    "saving": "Saving",
+    "onboarding-action": "Post",
+    "save-action": "Save",
+    "discard-edits": {
+      "affirm-button": "Discard",
+      "title": "Discard edits?",
+      "body": "Do you want to discard the edits you have made to this post?"
+    },
+    "take-photo": "Take photo",
+    "select-photo": "Select photo",
+    "add-cover-photo-instruction": "Add your cover photo first.",
+    "cover-photo-warning-text": "Your cover photo will be square on the home page and full size on the item page.",
+    "listing-title-input": "Title",
+    "listing-title-input-help": "For example: Brand, model, color, and size.",
+    "required-field": "(required)",
+    "optional-field": "(optional)",
+    "show-more-attributes": "Add more details",
+    "show-less-attributes": "Show less",
+    "other-attribute-value-name": "Other",
+    "unable-to-load-attributes": "Unable to load more detailed options due to network connection.",
+    "details-category": "Category",
+    "details-sub-category": "Sub-category",
+    "details-condition": "Condition",
+    "details-description": "Description",
+    "price-input-placeholder": "$0",
+    "firm-price-toggle": "Firm on price",
+    "select-location": {
+      "set": "Set a location",
+      "required": "(required)"
+    },
+    "search-list": "Search",
+    "shipping": {
+      "shipping-service-fee": "% service fee applies",
+      "sell-and-ship": "Sell & ship nationwide",
+      "sell-and-ship-helper": "Reach millions more buyers nationwide. We'll send you a shipping label—the buyer pays for it.",
+      "buy-now-helper": "Users will see the Buy Now button, they pay your full asking price and the system will auto-accept their offer for you.",
+      "shipping-policy-link": "Shipping policy",
+      "what-size-package": "What size package will you use?",
+      "help-me-decide-link": "Help me decide",
+      "agreement": "By posting nationwide, you agree to our shipping policy and ",
+      "tos": "Terms of Service",
+      "buy-now-header": "Enable Buy Now",
+      "buy-now-subtitle": "Auto-accept first full-price shipping offer",
+      "shipping-disallowed-title": "Shipping is not available",
+      "shipping-disallowed-reason-generic": "Please try again later",
+      "shipping-disallowed-reason-too-expensive": "To ship, price this item under $",
+      "shipping-disallowed-reason-too-cheap": "To ship, price this item over $",
+      "shipping-disallowed-reason-too-big": "Can't ship items in the category you selected.",
+      "ftue": {
+        "sections": [
+          {
+            "title": "We’ll email you the shipping label",
+            "description": "The buyer will pay the shipping fee."
+          },
+          {
+            "title": "Ship and get paid",
+            "description": "We will notify you when the item is delivered and when your money is securely deposited in your account. "
+          }
+        ],
+        "learn-more": "Learn more about shipping",
+        "got-it": "Got it",
+        "how-shiping-works": "How shipping works"
+      }
+    },
+    "get-more-views": "Get an average of 14x more views per day",
+    "sell-faster": "Sell faster",
+    "share": "Share your post to get more views",
+    "onboarding-another": "Post another item",
+    "autos": {
+      "year-make-model": "Year, Make & Model",
+      "year": "Year",
+      "make": "Make",
+      "model": "Model",
+      "trim": "Trim",
+      "features": "Features",
+      "vehicles-not-found": "No vehicle trims found.",
+      "features-not-found": "No features found for this vehicle.",
+      "selected": "selected",
+      "color": {
+        "title": "Color",
+        "other": "Other",
+        "black": "Black",
+        "gray": "Gray",
+        "white": "White",
+        "beige": "Beige",
+        "red": "Red",
+        "pink": "Pink",
+        "purple": "Purple",
+        "blue": "Blue",
+        "green": "Green",
+        "yellow": "Yellow",
+        "orange": "Orange",
+        "brown": "Brown",
+        "gold": "Gold"
+      },
+      "title": {
+        "title-status": "Title Status",
+        "values": {
+          "clean": {
+            "name": "Clean",
+            "desc": "Most vehicles that haven’t been in an accident"
+          },
+          "rebuilt": {
+            "name": "Rebuilt",
+            "desc": "A salvaged car that has been rebuilt"
+          },
+          "salvage": {
+            "name": "Salvage",
+            "desc": "Is considered totalled after an accident"
+          },
+          "missing": {
+            "name": "Missing",
+            "desc": "Will need a new DMV issued title"
+          },
+          "lien": {
+            "name": "Lien",
+            "desc": "Owned by a bank or court settlement"
+          }
+        }
+      },
+      "mileage": {
+        "title": "Mileage",
+        "hint": ""
+      },
+      "vin": {
+        "title": "VIN"
+      }
+    },
+    "condition": {
+      "cars-and-trucks": {
+        "NEW": "New",
+        "REFURBISHED": "Excellent",
+        "OPEN_BOX": "Very Good",
+        "USED": "Good",
+        "BROKEN": "Fair",
+        "OTHER": "For parts"
+      },
+      "other-categories": {
+        "NEW": "New",
+        "REFURBISHED": "Reconditioned/Certified",
+        "OPEN_BOX": "Open box (never used)",
+        "USED": "Used (normal wear)",
+        "BROKEN": "For parts",
+        "OTHER": "Other (see description)"
+      }
+    },
+    "description": {
+      "placeholder": "Items with a detailed description sell faster!"
+    },
+    "cover-photo": "Cover photo",
+    "add-photo": "Add photo",
+    "photo-selection-limit": "Using {{selectedPhotoCount}} / {{maxNumberOfPhotos}} images",
+    "photo-selection": {
+      "action-sheet-menu": {
+        "edit": "Edit",
+        "set-as-cover-photo": "Set as cover photo",
+        "remove": "Delete",
+        "cancel": "Cancel"
+      }
+    },
+    "photo-edit": {
+      "cancel": "Cancel",
+      "rotate": "Rotate",
+      "done": "Done",
+      "reset": "Reset",
+      "error-image-load": "Couldn't load the image. Please try again."
+    },
+    "validation-results": {
+      "photos-required": "Please add an image",
+      "title-required": "Please provide a title",
+      "category-required": "Please choose a category",
+      "price-required": "Please set a price",
+      "location-required": "Please select a location",
+      "parcel-selection-required": "Please select a package size"
+    },
+    "pay-per-post": {
+      "autos": {
+        "vdp-upsell": {
+          "benefit0": "Unlimited posting",
+          "benefit1": "Sync inventory automatically",
+          "benefit2": "Advertising solutions",
+          "benefit3": "Get a verified dealer profile"
+        }
+      },
+      "onboarding-template": "Pay $@ to post"
+    }
+  },
+  "my-offers": {
+    "title": "Selling",
+    "views": "views",
+    "buyers": "conversations",
+    "leads": "leads",
+    "rate-buyer": "Rate the buyer",
+    "sell-another": "Sell another",
+    "sell-faster": "Sell faster",
+    "mark-sold": "Mark sold",
+    "share": "Share",
+    "archive": "Archive",
+    "sold": "Sold",
+    "archived-nav": "Archived",
+    "unarchive": "Unarchive",
+    "archiving": "Archiving...",
+    "unarchiving": "Unarchiving...",
+    "marking-sold": "Marking sold...",
+    "marked-sold": "Marked sold",
+    "promotion-results": "Promotion results",
+    "onboarding-item": "Post an item",
+    "promo-time-left": "{{promoTimeRemaining}} left",
+    "promoted": "Promoted",
+    "promote-plus": "Promote Plus",
+    "promotion-expired": "Promotion Expired",
+    "empty": "Start making money",
+    "promote-plus-empty": "Post items for sale and use Promote Plus to sell them faster.",
+    "archived-empty-title": "You have no archived items",
+    "archived-empty-subtitle": "When you archive an item, you’ll see it here.",
+    "view-receipt": "View receipt",
+    "web-empty-subtext": "To post items for sale, download the app.\nYou'll see your posted items here.",
+    "mark-sold-dialog": {
+      "title": "Mark item as sold",
+      "body": "This can’t be undone. Only do this if you've actually sold the item, either on Redibs or elsewhere. Continue?"
+    },
+    "item-dashboard": {
+      "title": "Item Dashboard",
+      "edit-post": "Edit post",
+      "item-performance": "Item performance",
+      "messages": "Messages",
+      "no-message": "No message",
+      "empty-offer-message": "When people ask or make offers, you’ll get their messages here.",
+      "promo-banner-title": "Sell faster with promotions",
+      "promo-banner-subtitle": "Get an average of 14x more views each day"
+    }
+  },
+  "item-performance": {
+    "title": "Item Performance",
+    "sell-faster": "Sell faster",
+    "promo-text-1": "Get an average of 14x more views each day",
+    "promo-text-2": "Promoted views show the additional views from your current position",
+    "promotion-expires-text": "Expires {{date}}"
+  },
+  "promotion-results": {
+    "title": "Promotion Results",
+    "no-results": "No active promotions"
+  },
+  "promotions": {
+    "ftue-title": "How promoting works",
+    "ftue-section-one-title": "Get more views",
+    "ftue-section-one-message": "Promoted items appear among the first spot buyers see, so you can get an average of 14x more views.",
+    "ftue-section-two-title": "Add a promoted spot",
+    "ftue-section-two-message": "Your item still appears as a new post and in search results, as well as on promoted spot.",
+    "ftue-section-three-title": "Promoted spots rotate between sellers",
+    "ftue-section-three-message": "Don’t worry if you don’t always see your item at the top of your feed. The spaces are shared.",
+    "ftue-section-four-title": "See real-time results",
+    "ftue-section-four-message": "Want to see how many people are looking at your item? Check under \"Selling\" for the latest updates.",
+    "ftue-help-button": "Learn more about promoting",
+    "ftue-final-button": "Got it",
+    "subscription-screen-title": "Promote Plus",
+    "manage-title": "Manage Promote Plus",
+    "best-value": "Best value",
+    "manage-section-one": "Sell faster with Promote Plus",
+    "manage-feature-one": "Get an average of 14x more views each day",
+    "manage-feature-two": "Promote for multiple days",
+    "manage-feature-three": "Switch promotion to any item",
+    "manage-section-two": "Already a subscriber?",
+    "manage-description-ios": "To change your subscription visit your App Store. If you cancel, your subscription will run to the end of this billing period.",
+    "manage-description-android": "To change your subscription visit Google Play. If you cancel, your subscription will run to the end of this billing period.",
+    "manage-help-button": "Learn more about Promote Plus",
+    "manage-button-ios": "Manage in App Store",
+    "manage-button-android": "Manage in Google Play",
+    "subscription-terms-ios": "Your iTunes account will be charged $19.99 per month for the Promote Plus Subscription at the end of your 3-day free trial unless you cancel the subscription at least 24 hours before the end of the trial period. If you do not have a free trial period, your iTunes account will be charged when you complete your purchase. Your subscription will automatically renew each month unless you turn off auto-renew in your iTunes account at least 24 hours before the end of the current billing period.",
+    "subscription-terms-android": "Your Google Play account will be charged $19.99 per month for the Promote Plus Subscription at the end of your 3-day free trial unless you cancel the subscription before the end of the trial period. If you do not have a free trial period, your Google Play account will be charged when you complete your purchase. Your subscription will automatically renew each month unless you cancel the subscription in your Google Play account before the end of the current billing period.",
+    "subscription-terms-links-1": "By purchasing the Promote Plus Subscription you agree to ",
+    "subscription-terms-links-2": "Redibs’s Terms",
+    "subscription-terms-links-3": " and ",
+    "subscription-terms-links-4": "Privacy Policy.",
+    "restore-button-title": "Restore subscription",
+    "promoted": "Promoted",
+    "sell-faster-screen-title": "Sell Faster",
+    "sell-faster-help-button": "How does promoting work?",
+    "subscribed-label": "Subscribed",
+    "use-button-text": "Use Promote Plus",
+    "subscription-free-trial": "Free Trial",
+    "promote-button": "Promote",
+    "subscription-swap-message": "Promote ‘{{listingTitle}}’ instead of ‘{{currentListingTitle}}’?",
+    "purchased-subscription-message": "You are currently subscribed to Promote Plus. Tap ‘Use Promote Plus’ to use your promoted spot for this item.",
+    "mis-all-used-title": "5 items promoted",
+    "mis-all-used-message": "To promote this item, archive or mark sold one of your promoted items to free up a promoted spot.",
+    "payment-method": "Payment method",
+    "choose-promotion": "Choose a Promotion",
+    "place-order": "Place order",
+    "order-summary": "Order summary",
+    "payment-processing": "Payment processing...",
+    "item-promoted": "Item promoted",
+    "breadcrumbs": {
+      "selling": "Selling",
+      "sell-faster": "Sell faster",
+      "home": "Home"
+    }
+  },
+  "shipping_offer_screen": {
+    "shipping_offer_screen_title": "Review Your Offer",
+    "estimated_delivery": "Estimated delivery {{estimatedDelivery}}",
+    "buy_now_offer_screen_title": "Confirm Purchase",
+    "item_price_label": "Item price",
+    "edit_price_label": "Edit",
+    "buyer_pay_label": "You Pay",
+    "make_offer_button_text": "Make offer",
+    "shipping_adress_label": "Shipping to",
+    "required-label": "(required)",
+    "payment_method_label": "Payment method",
+    "accept_term_condition_text_part_1": "By continuing, you accept the Redibs ",
+    "accept_term_condition_text_part_2": "Terms of Service",
+    "buyer_charged_after_offer_accepted_text": "You'll be charged when the seller accepts this offer.",
+    "seller_automatically_accept_offer_text": "The seller will automatically accept your offer.",
+    "credit_card_number_display_text": "\u2022 \u2022 \u2022 \u2022 {{card_ending_digits}}",
+    "confirm_offer_button_txt": "Confirm offer",
+    "confirm_purchase_button_text": "Confirm purchase",
+    "payment_processing": "Payment processing...",
+    "payment_complete": "Purchase complete",
+    "purchase_summary": "Purchase summary",
+    "order_processing": "Order processing...",
+    "order_complete": "Order placed",
+    "sending_offer": "Sending offer...",
+    "offer_sent": "Offer sent",
+    "edit_price": "Edit Price",
+    "address-error": "Please include a shipping address",
+    "payment-error": "Please include a payment method"
+  },
+  "shipping_address_screen": {
+    "screen_title": "Add Shipping Info",
+    "add_return_address": "Add Return Address",
+    "name_label": "Name",
+    "address_label": " Street Address",
+    "address_line1_hint": "Street address 1",
+    "address_line2_hint": "Street address 2",
+    "city_label": "City",
+    "state_label": "State",
+    "zipcode_label": "Zip",
+    "submit_button_txt": "Save",
+    "saving": "Saving..."
+  },
+  "public-profile": {
+    "profile": "Profile",
+    "report-user": "Report user",
+    "unblock-user": "Unblock user",
+    "joined-date": "Joined {{date}}",
+    "bought": "Bought",
+    "sold": "Sold",
+    "followers": "Followers",
+    "compliments": "Compliments",
+    "about": "About",
+    "items-from-this-seller": "Items from this seller",
+    "no-items-for-sale": "No items for sale",
+    "currently-this-seller-has-no-items-for-sale-check-back-soon": "Currently, this seller has no items for sale. Check back soon.",
+    "error-loading": "Error loading profile",
+    "see-more-reviews": "See more reviews",
+    "verified-autos-dealer": "Verified Auto Dealer",
+    "vehicles-from-this-dealer": "Vehicles from this dealer",
+    "subprime-autos-dealer": "Verified Low Credit Financing",
+    "view-all-inventory": "View all inventory",
+    "call-number": "Call {{number}}",
+    "unblock": "Unblock",
+    "unblock-dialog-title": "Unblock to continue",
+    "unblock-dialog-description": "You blocked {{username}}. To continue, please unblock them.",
+    "unblock-profile-dialog-title": "Unblock this user?",
+    "unblock-profile-dialog-description": "You'll be able to send each other messages and offers again. Are you sure?",
+    "verified-pro-seller": "Verified Pro Seller"
+  },
+  "merchant-profile": {
+    "items-sold-on-redibs": "Items sold on Redibs",
+    "verified-merchant": "Verified Merchant",
+    "verified-pro-seller": "Verified Pro Seller",
+    "contact-seller": "Contact seller"
+  },
+  "make_offer_screen": {
+    "screen_title": "Enter Your Offer",
+    "firm-screen-title": "Review Your Offer",
+    "price_empty_error": "Price required",
+    "exceeded_max_shipping_price_error": "Offer price cannot be greater than $",
+    "below_min_shipping_price_error": "Offer price cannot be less than $",
+    "make_offer_button_title": "Make offer",
+    "make_offer_button_subtitle": {
+      "one": "1 mile away",
+      "other": "{{distance_miles}} miles away"
+    },
+    "ship_button_title": "Ship to me",
+    "ship_button_subtitle": "+ ${{fee}} shipping fee",
+    "offer_sent_text": "Offer sent",
+    "merchant_order_placed": "Order placed",
+    "seller-firm-on-price": "Seller is only accepting offers at full price"
+  },
+  "edit_price_screen": {
+    "screen_title": "Edit item price",
+    "price_empty_error": "Price required"
+  },
+  "accept_decline_offer_screen": {
+    "screen_title": "Offer",
+    "buyer_price_text": "Buyer offer",
+    "prepaid_label_text": "We'll send you a pre-paid shipping label.",
+    "send_within_days_text": "Just ship within 3 days and you'll get paid after the buyer inspects the item.",
+    "you_agree_to_policy_text_part1": "When you tap Accept, you agree to follow our ",
+    "you_agree_to_policy_text_part2": "Shipping Policy",
+    "you_agree_to_policy_text_part3": ", including applicable shipping restrictions.",
+    "decline_button_text": "Decline",
+    "accept_button_text": "Accept",
+    "declining_offer": "Declining offer",
+    "cancel-offer-button-text": "Cancel offer",
+    "buyer-review-info-text-part1": "Your payment method will be charged when the seller accepts your offer. When they ship the item, you’ll get the tracking info.",
+    "buyer-review-info-text-part2": "This offer can only be canceled before the seller accepts. ",
+    "buyer-cancel-confirm-dialog": {
+      "title": "Cancel your offer?",
+      "body": "If you change your mind, you can make the offer again.",
+      "affirm": "Cancel offer",
+      "reject": "No"
+    },
+    "decline-confirm-dialog": {
+      "title": "Decline offer",
+      "body": "Once you decline, you can't accept this offer unless they make it again.",
+      "affirm": "Decline",
+      "reject": "Cancel"
+    },
+    "view-receipt-button-text": "View receipt",
+    "got-it-button-text": "Got it",
+    "seller-confirm-title": "Confirm your information",
+    "seller-confirm-message": "We’ll create a pre-paid shipping label for you and send it to your email to print.",
+    "seller-confirm-address": "Return address",
+    "seller-confirm-disclaimer": "By continuing, you accept the Redibs ",
+    "seller-confirm-terms": "Terms of Service.",
+    "cancelled-offer": "Offer canceled",
+    "seller-status": {
+      "seller-accepted-offer": "You accepted this offer",
+      "seller-rejected-offer": "You declined this offer"
+    },
+    "buyer-status": {
+      "buyer-canceled-offer": "You canceled this offer",
+      "seller-rejected-offer": "Seller declined this offer"
+    }
+  },
+  "shipping-time-to-ship-screen": {
+    "screen-title": "Shipping",
+    "title": "Time to ship!",
+    "section-one": "We’ve sent a pre-paid shipping label to:",
+    "section-two": "In the next 3 business days, you need to:",
+    "step-one": "1. Package the item.",
+    "step-two": "2. Print and attach the label.",
+    "step-three": "3. Give the labeled package to the shipping carrier."
+  },
+  "listing-detail": {
+    "description": "Description",
+    "posted": "Posted",
+    "share": "Share",
+    "save": "Save",
+    "saved": "Saved",
+    "report": "Report",
+    "ask": "Ask",
+    "offer": "Offer",
+    "make_offer": "Make offer",
+    "buy": "Buy",
+    "buy-now": "Buy Now",
+    "in": " in ",
+    "miles_suffix": " Miles",
+    "mpg_suffix": " MPG",
+    "vin": "VIN",
+    "typical_features": "Typical features",
+    "see_all_features": "See all features",
+    "contact_seller_for_vehicle_details": "Contact the seller to confirm vehicle details",
+    "condition_prefix": "Condition: ",
+    "report-item-title": "Report item",
+    "read_more": "Read more",
+    "see_more": "See more",
+    "see_less": "See less",
+    "vehicle_history_report": "Vehicle history report",
+    "no_salvage_suffix": " did not find a salvage record",
+    "no_accidents": "No accidents",
+    "buy_report_for_prefix": "Buy ",
+    "buy_report_for_middle": " report for ",
+    "history_provided_by_prefix": "Vehicle history data provided by ",
+    "history_provided_by_middle": " on ",
+    "history_provider_about": "About ",
+    "history_has_accidents": " found 1 accident",
+    "history_no_accidents": "No accidents",
+    "history_has_salvage": " found a salvage record",
+    "history_no_salvage": " did not find a salvage record",
+    "check_out_the_item": "Check out this item on Redibs.",
+    "hours_open_today": "Open today",
+    "hours_open_tomorrow": "Open tomorrow",
+    "see_hours": "See hours of operation",
+    "hide_hours": "Hide hours of operation",
+    "hours_prefix": "Hours ",
+    "chat": "Chat",
+    "call": "Call for quick info",
+    "call-now": "Call now",
+    "details": "Details",
+    "additional_details": "Additional details",
+    "learn_more": "Learn more",
+    "map_disclaimer": "Map is approximate to keep seller’s location private.",
+    "vehicles_from_this_dealer": "Vehicles from this dealer",
+    "more-from": "More from",
+    "view-more-from": "View more from",
+    "typical-features": "Typical features",
+    "related-searches": "Related searches",
+    "share-subject": "Check out this item on Redibs",
+    "share-email": "Share by email",
+    "share-facebook": "Share on Facebook",
+    "manage-item": "Manage this item",
+    "rate-buyer": "Rate the buyer",
+    "sold-caps": "SOLD",
+    "call-for-price": "Call for price",
+    "unable-to-load": "Unable to load",
+    "unable-to-load-details": "We were unable to load the page due to network connection issues.",
+    "condition": {
+      "other": "Other (see description)",
+      "for_parts": "For parts",
+      "used": "Used (normal wear)",
+      "refurbished": "Reconditioned/Certified",
+      "new": "New (never used)",
+      "open_box": "Open box (never used)"
+    },
+    "shipping": {
+      "shipping": "Shipping",
+      "disclaimer": "Ships to continental 48 states only",
+      "estimated_date": "Estimated delivery date",
+      "free_shipping": "Free shipping",
+      "free_shipping_from": "Free shipping from",
+      "ships_for_prefix": "Ships for $",
+      "ships_from": " from ",
+      "free_shipping_excited": "Free shipping!"
+    }
+  },
+  "camera": {
+    "done-btn": "Done",
+    "cancel-btn": "Cancel",
+    "no-photo": "No photo",
+    "cover-photo-intruction": "Photos are cropped in the feed and full size on item listings."
+  },
+  "image-picker": {
+    "done-btn": "Done",
+    "cover-image-lbl": "Cover photo"
+  },
+  "image-picker-widget": {
+    "album-choose-modal-title": "Select album",
+    "cancel-btn": "Cancel",
+    "more-albums-btn": "Tap to see albums",
+    "camera-roll": "Camera Roll",
+    "take-photo-btn": "Take photo"
+  },
+  "camera-roll": {
+    "most-recent-album-title": "Recent Photos"
+  },
+  "meetup": {
+    "screen_title": "Suggest MeetUp Spot",
+    "community_meetup_spot": "Community MeetUp Spots",
+    "distance_miles_formatted": "{{distanceMiles}} mi",
+    "spot_list_header_text": "Suggest MeetUp Spot",
+    "empty-alerts-title": "No MeetUp spots available",
+    "empty-alerts-subtitle": "Sorry, there are no MeetUp spots in your area. Try searching in a different location.",
+    "current_location_text": "Current location",
+    "item_location_text": "Item location",
+    "tap-to-view-map": "Tap to view map",
+    "send": "Send"
+  },
+  "saved-items": {
+    "title-saved-lists": "Saved Items",
+    "create-list-button-text": "Create list",
+    "list-item-count": "item",
+    "quick-save-list": "Quick Save",
+    "title-listing-saved-lists-model": "Save to List",
+    "title-create-saved-list-model": "Create List",
+    "title-rename-saved-list-model": "Rename List",
+    "list-name-input-title": "List name",
+    "rename-list-button-text": "Rename",
+    "delete-saved-list-dialog": {
+      "title": "Delete list",
+      "body": "Are you sure you want to delete this list? This can't be undone."
+    },
+    "delete-saved-item-dialog": {
+      "title": "Delete item",
+      "body": "Are you sure you want to delete the item from this list? This can't be undone."
+    },
+    "empty-saved-list": {
+      "empty-list-title": "No saved items",
+      "empty-list-subtitle": "When you save an item to this list, you’ll see it here. Go find items to save to this list.",
+      "find-item-button-text": "Find an item"
+    }
+  },
+  "urls": {
+    "leaving-title": "You're leaving Redibs",
+    "continue-question": "Continue?"
+  },
+  "webview": {
+    "help_center_page_title": "Help Center",
+    "receipt-page-title": "Receipt"
+  },
+  "self-resolution": {
+    "day": "day",
+    "rate-seller": "Rate the seller",
+    "please-add-description": "Please add a description",
+    "refund-request-sent": "Refund request sent",
+    "inspect": {
+      "title": "Inspect",
+      "window": "Inspect your item by {{inspectByDate}}",
+      "window-subtext": "Eligible through {{eligibilityDate}}",
+      "help-title": "Does the item match its description?",
+      "help-text": "Tap “Request refund” within {{pluralizedWindow}} if there’s a problem. Otherwise, tap “Looks good,” and the sale will be final.",
+      "refund-button": "Request refund",
+      "no-refund-button": "Looks good"
+    },
+    "request-refund": {
+      "title": "Request Refund",
+      "input-prompt": "What’s the issue?",
+      "input-help": "Tell the seller why the item is not what they described.",
+      "photos": "Please send the seller photos in chat.",
+      "seller-respond-window": "The seller has {{pluralizedWindow}} to respond. If they accept, we’ll email you a shipping label to return the item.",
+      "refund-payment": "You’ll get ${{refundAmount}} once you ship the item.",
+      "help-center": "Redibs can help resolve the issue if the seller declines or ignores your request.",
+      "refund-button": "Request refund"
+    },
+    "buyer-requested-refund": {
+      "status": "You requested a refund",
+      "refund-total": "Refund total",
+      "request-date": "Request date",
+      "seller-decision": "Seller decision due by ",
+      "next-button": "What’s next"
+    },
+    "inspect-window-expired": {
+      "status": "{{inspectionWindowDays}}-day inspection window expired",
+      "expired": "Expired on {{expirationDate}}",
+      "explanation": "After an item arrives, you have {{inspectionWindowDays}} days to inspect it and let the seller know if anything’s wrong.",
+      "learn-more": "Learn more",
+      "window-passed": "That window has passed, so you won't be able to request a refund."
+    },
+    "inspection-closed": {
+      "status": "You inspected this item already and said it looks good",
+      "no-refund": "You can no longer request a refund for this item."
+    },
+    "claim-submitted": {
+      "status": "You’ve reported an issue to Redibs.",
+      "email": "Our customer service team will email you."
+    },
+    "seller-view-requested-refund": {
+      "title": "Refund Request",
+      "status": "{{buyerName}} requested a refund",
+      "expiration": "You have until {{expirationDate}} to accept or decline this refund.",
+      "item-price": "Item price",
+      "paid": "You were paid",
+      "refund": "Refund amount",
+      "reason": "Reason for request",
+      "reason-description": "The buyer had this to say: {{returnReasonDescription}}",
+      "fine-print": "If you accept, the buyer must ship the item back at no cost to you. When they ship, the sale will be canceled.",
+      "accept": "Accept",
+      "decline": "Decline"
+    },
+    "seller-view-accepted-refund": {
+      "status": "You accepted {{buyerName}}'s refund request"
+    },
+    "seller-view-expired-refund": {
+      "status": "{{buyerName}}'s refund request expired",
+      "buyer": "This request has expired. The buyer has until {{expirationDate}} to contact Redibs if they are still concerned about the item."
+    },
+    "seller-view-declined-refund": {
+      "status": "You declined {{buyerName}}'s refund request",
+      "buyer": "The buyer has until {{expirationDate}} to contact Redibs if they are still concerned about the item."
+    },
+    "seller-accepted-refund": {
+      "title": "Accepted",
+      "subtitle": "What’s next",
+      "next-step-1": "We’ll send the buyer a shipping label at no cost to you.",
+      "next-step-2": "The buyer must ship your item before {{shipDate}} in order to get a refund.",
+      "next-step-3": "We’ll cancel the sale and refund the buyer once they ship the item."
+    },
+    "seller-declined-refund": {
+      "title": "Decline",
+      "subtitle": "You chose to decline the refund",
+      "input-title": "Your reason for declining",
+      "input-description": "Please explain to the buyer why you want to decline the request.",
+      "footer": "The buyer has {{buyerProtectionClaimWindowDays}} more days to contact Redibs if they are still concerned about the item.",
+      "button": "Decline"
+    },
+    "merchant-refund": {
+      "title": "Request Refund",
+      "subtitle": "What went wrong?",
+      "email": "The seller will respond to you via your email:",
+      "incorrect-email": "Not the correct email address?",
+      "help-1": "You can update it in ",
+      "help-2": " before requesting your refund.",
+      "account": "Account"
+    },
+    "merchant-refund-description": {
+      "title": "Request Refund",
+      "input-title": "What's the issue?",
+      "input-description": "Tell the seller in more detail what went wrong.",
+      "button": "Request refund",
+      "next-step-1": "The seller will respond to you via your email: ",
+      "next-step-2": "Be ready to provide photos and more info to the seller."
+    },
+    "merchant-refund-submitted": {
+      "title": "Request Sent",
+      "status": "Check your email for the seller’s response.",
+      "amount": "Refund amount",
+      "date": "Request date",
+      "seller": "Seller decision due by",
+      "button": "Get help from Redibs",
+      "disabled-button-context": "Please wait 2 business days for the seller to respond before getting help from Redibs.",
+      "enabled-button-context": "You are now elgible to get help from Redibs."
+    },
+    "merchant-refund-window-expired": {
+      "title": "Refund Request",
+      "status": "30-day inspection window expired",
+      "expired": "Expired on {{expirationDate}}",
+      "info-1": "After an item arrives, you have 30 days to inspect it and let the seller know if anything’s wrong. ",
+      "info-2": "That window has passed, so you won't be able to request a refund. If you are already in conversation with the seller, you may continue to do so."
+    },
+    "merchant-bpc-submitted": {
+      "title": "Claim Sent",
+      "status": "Your claim is under review by Redibs customer support.",
+      "refund-amount": "Refund amount",
+      "claim-number": "Claim #",
+      "claim-filed": "Claim filed with Redibs",
+      "next-step-1": "Redibs will respond to you via your email: ",
+      "next-step-2": "Be ready to provide photos and more info",
+      "help-button": "How claims work"
+    },
+    "merchant-bpc-denied": {
+      "title": "Claim Denied",
+      "status": "Claim denied on {{claimDenialDate}}",
+      "claim-number": "Claim #",
+      "claim-closed": "Claim closed with Redibs",
+      "claim-filed": "Claim filed with Redibs",
+      "next-step": "Please check your email for any correspondence from Redibs: "
+    }
+  },
+  "purchase-protection": {
+    "title": "Redibs Purchase Protection",
+    "b2c-title": "Redibs Pro Purchase Protection",
+    "c2c-purchase=protection-text": "Items shipped through Redibs come with a 2-day purchase protection.",
+    "b2c-purchase=protection-text": "This item comes with 30-day purchase protection."
+  },
+  "maps": {
+    "open-with": "Open with",
+    "google-maps": "Google Maps",
+    "apple-maps": "Apple Maps"
+  },
+  "rating": {
+    "rate-buyer": "Rate Buyer",
+    "rate-seller": "Rate Seller",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "didnt-buy-this": "I didn't buy this",
+    "how-was-selling": "How was your selling experience?",
+    "how-was-buying": "How was your buying experience?",
+    "submit-rating": "Submit rating",
+    "sold-elsewhere": "Sold it somewhere else",
+    "didnt-sell-on-redibs": "I didn't sell it on Redibs",
+    "who-bought-it": "Who bought it?",
+    "review-saved": "Review saved!",
+    "thanks-for-rating": "Thanks for rating!",
+    "already-rated-body": "Your feedback has been saved and can't be changed.",
+    "back-to-notifications": "Back to Notifications"
+  },
+  "category-tree": {
+    "all-categories": "All Categories"
+  },
+  "get-user-email-screen": {
+    "welcome-to-redibs": "Welcome to Redibs",
+    "email-prompt": "Email address",
+    "invalid-email-error": "Check your email address",
+    "username-prompt": "Name",
+    "invalid-name-error": "Use 3+ characters in your username",
+    "save-button": "Create Account"
+  },
+  "receipt": {
+    "title": "Receipt",
+    "status-section-header": "Status",
+    "track-package-button-text": "Track Package",
+    "payment-section-header": "Order info",
+    "order-number": "Order #",
+    "ship-section-header": "Ship to",
+    "seller-section-header": "Seller",
+    "support-section-header": "Support",
+    "terms": "Terms of Service",
+    "help": "Help",
+    "request-refund-button": "Request a refund",
+    "purchase-date": "Ordered on",
+    "purchase-method": "Payment method",
+    "rate-seller": "Rate seller",
+    "purchased-status": "We’ll update your tracking info once your item has been shipped.",
+    "missing-tracking": "The seller shipped the order without providing a tracking ID.\nQuestions? Please contact the seller for info.",
+    "contact-seller": "Contact the seller"
+  },
+  "order-confirmation": {
+    "title": "Thank you,\nyour order was placed!",
+    "subtitle": "Look for a confirmation email and an app notification with details on next steps.",
+    "receipt-button": "View order details"
+  }
+}
